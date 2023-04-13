@@ -553,6 +553,7 @@
   -webkit-background-clip: text;
   background-clip: text;
   line-height: 1.3;
+  width: 10rem;
 }
 .redmi-smart-band-pro.overview-con .section-o3 .f24 {
   line-height: 1.1;
