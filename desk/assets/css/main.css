@@ -1,0 +1,5011 @@
+.redmi-smart-band-pro.overview-con {
+  width: 100%;
+}
+.redmi-smart-band-pro.overview-con .xm-price,
+.redmi-smart-band-pro.overview-con .xm-text,
+.redmi-smart-band-pro.overview-con .xm-visible {
+  opacity: 0;
+  transform: translateY(2vh);
+}
+.redmi-smart-band-pro.overview-con .is-visible .xm-price,
+.redmi-smart-band-pro.overview-con .is-visible .xm-text,
+.redmi-smart-band-pro.overview-con .is-visible .xm-visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear;
+}
+.redmi-smart-band-pro.overview-con .f12 {
+  font-size: 0.046875rem;
+}
+.redmi-smart-band-pro.overview-con .f14 {
+  font-size: 0.054688rem;
+}
+.redmi-smart-band-pro.overview-con .f16 {
+  font-size: 0.0625rem;
+}
+.redmi-smart-band-pro.overview-con .f18 {
+  font-size: 0.070313rem;
+}
+.redmi-smart-band-pro.overview-con .f20 {
+  font-size: 0.078125rem;
+}
+.redmi-smart-band-pro.overview-con .f22 {
+  font-size: 0.085938rem;
+}
+.redmi-smart-band-pro.overview-con .f24 {
+  font-size: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .f26 {
+  font-size: 0.101563rem;
+}
+.redmi-smart-band-pro.overview-con .f28 {
+  font-size: 0.109375rem;
+}
+.redmi-smart-band-pro.overview-con .f30 {
+  font-size: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .f32 {
+  font-size: 0.125rem;
+}
+.redmi-smart-band-pro.overview-con .f34 {
+  font-size: 0.132813rem;
+}
+.redmi-smart-band-pro.overview-con .f36 {
+  font-size: 0.140625rem;
+}
+.redmi-smart-band-pro.overview-con .f38 {
+  font-size: 0.148438rem;
+}
+.redmi-smart-band-pro.overview-con .f40 {
+  font-size: 0.15625rem;
+}
+.redmi-smart-band-pro.overview-con .f42 {
+  font-size: 0.164063rem;
+}
+.redmi-smart-band-pro.overview-con .f44 {
+  font-size: 0.171875rem;
+}
+.redmi-smart-band-pro.overview-con .f46 {
+  font-size: 0.179688rem;
+}
+.redmi-smart-band-pro.overview-con .f48 {
+  font-size: 0.1875rem;
+}
+.redmi-smart-band-pro.overview-con .f50 {
+  font-size: 0.195313rem;
+}
+.redmi-smart-band-pro.overview-con .f52 {
+  font-size: 0.203125rem;
+}
+.redmi-smart-band-pro.overview-con .f54 {
+  font-size: 0.210938rem;
+}
+.redmi-smart-band-pro.overview-con .f56 {
+  font-size: 0.21875rem;
+}
+.redmi-smart-band-pro.overview-con .f58 {
+  font-size: 0.226563rem;
+}
+.redmi-smart-band-pro.overview-con .f60 {
+  font-size: 0.234375rem;
+}
+.redmi-smart-band-pro.overview-con .f62 {
+  font-size: 0.242188rem;
+}
+.redmi-smart-band-pro.overview-con .f64 {
+  font-size: 0.25rem;
+}
+.redmi-smart-band-pro.overview-con .f66 {
+  font-size: 0.257813rem;
+}
+.redmi-smart-band-pro.overview-con .f68 {
+  font-size: 0.265625rem;
+}
+.redmi-smart-band-pro.overview-con .f70 {
+  font-size: 0.273438rem;
+}
+.redmi-smart-band-pro.overview-con .f72 {
+  font-size: 0.28125rem;
+}
+.redmi-smart-band-pro.overview-con .f74 {
+  font-size: 0.289063rem;
+}
+.redmi-smart-band-pro.overview-con .f76 {
+  font-size: 0.296875rem;
+}
+.redmi-smart-band-pro.overview-con .f78 {
+  font-size: 0.304688rem;
+}
+.redmi-smart-band-pro.overview-con .f80 {
+  font-size: 0.3125rem;
+}
+.redmi-smart-band-pro.overview-con .f82 {
+  font-size: 0.320313rem;
+}
+.redmi-smart-band-pro.overview-con .f86 {
+  font-size: 0.335938rem;
+}
+.redmi-smart-band-pro.overview-con .f88 {
+  font-size: 0.34375rem;
+}
+.redmi-smart-band-pro.overview-con .f90 {
+  font-size: 0.351563rem;
+}
+.redmi-smart-band-pro.overview-con .f92 {
+  font-size: 0.359375rem;
+}
+.redmi-smart-band-pro.overview-con .f98 {
+  font-size: 0.382813rem;
+}
+.redmi-smart-band-pro.overview-con .f100 {
+  font-size: 0.390625rem;
+}
+.redmi-smart-band-pro.overview-con .f106 {
+  font-size: 0.414063rem;
+}
+.redmi-smart-band-pro.overview-con .f108 {
+  font-size: 0.421875rem;
+}
+.redmi-smart-band-pro.overview-con .f110 {
+  font-size: 0.429688rem;
+}
+.redmi-smart-band-pro.overview-con .f114 {
+  font-size: 0.445313rem;
+}
+.redmi-smart-band-pro.overview-con .f116 {
+  font-size: 0.453125rem;
+}
+.redmi-smart-band-pro.overview-con .f120 {
+  font-size: 0.46875rem;
+}
+.redmi-smart-band-pro.overview-con .f128 {
+  font-size: 0.5rem;
+}
+.redmi-smart-band-pro.overview-con .f130 {
+  font-size: 0.507813rem;
+}
+.redmi-smart-band-pro.overview-con .f138 {
+  font-size: 0.539063rem;
+}
+.redmi-smart-band-pro.overview-con .f140 {
+  font-size: 0.546875rem;
+}
+.redmi-smart-band-pro.overview-con .f142 {
+  font-size: 0.554688rem;
+}
+.redmi-smart-band-pro.overview-con .f144 {
+  font-size: 0.5625rem;
+}
+.redmi-smart-band-pro.overview-con .f146 {
+  font-size: 0.570313rem;
+}
+.redmi-smart-band-pro.overview-con .f148 {
+  font-size: 0.578125rem;
+}
+.redmi-smart-band-pro.overview-con .f150 {
+  font-size: 0.585938rem;
+}
+.redmi-smart-band-pro.overview-con .f156 {
+  font-size: 0.609375rem;
+}
+.redmi-smart-band-pro.overview-con .f160 {
+  font-size: 0.625rem;
+}
+.redmi-smart-band-pro.overview-con .f190 {
+  font-size: 0.742188rem;
+}
+.redmi-smart-band-pro.overview-con .f200 {
+  font-size: 0.78125rem;
+}
+.redmi-smart-band-pro.overview-con .f248 {
+  font-size: 0.96875rem;
+}
+.redmi-smart-band-pro.overview-con .white {
+  color: #fff;
+}
+.redmi-smart-band-pro.overview-con .gray {
+  color: #494949;
+}
+.redmi-smart-band-pro.overview-con .black {
+  color: #000;
+}
+.redmi-smart-band-pro.overview-con .section {
+  position: relative;
+  width: 100%;
+}
+.redmi-smart-band-pro.overview-con .section .text-container.absolute {
+  position: absolute;
+}
+.redmi-smart-band-pro.overview-con .section-o1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 6.050781rem;
+  overflow: hidden;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o1.is-visible .img01 {
+  top: 1.640625rem;
+  transition: all 1s linear 0.5s;
+}
+.redmi-smart-band-pro.overview-con .section-o1.is-visible .img02 {
+  top: 2.03125rem;
+  transition: all 1s linear 0.5s;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .text-content {
+  left: 2.65625rem;
+  letter-spacing: -0.9px;
+  position: absolute;
+  text-align: center;
+  top: 0.625rem;
+  width: 4.6875rem;
+  z-index: 6;
+}
+.hairlines .redmi-smart-band-pro.overview-con .section-o1 .text-content {
+  letter-spacing: -0.5px;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .item {
+  align-items: baseline;
+  display: flex;
+  justify-content: flex-start;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .logo {
+  height: 0.257813rem;
+  width: 0.851563rem;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .f86 {
+  color: #000;
+  line-height: 1.3;
+  margin-left: 0.210938rem;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .img01 {
+  height: 1.652344rem;
+  left: 3.460938rem;
+  position: absolute;
+  top: -1.640625rem;
+  width: 1.476563rem;
+  z-index: 2;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .img02 {
+  height: 3.492188rem;
+  left: 3.953125rem;
+  position: absolute;
+  top: 6.25rem;
+  width: 3.25rem;
+  z-index: 4;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .img03 {
+  height: 2.121094rem;
+  left: 1.835938rem;
+  position: absolute;
+  top: 2.367188rem;
+  width: 3.792969rem;
+  z-index: 3;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .img04 {
+  height: 1.96875rem;
+  left: 6.046875rem;
+  position: absolute;
+  top: 2.5625rem;
+  width: 2.132813rem;
+  z-index: 5;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .f46 {
+  margin-top: 0.039063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .f24,
+.redmi-smart-band-pro.overview-con .section-o1 .f30 {
+  line-height: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .f30 {
+  margin: 0.046875rem 0 0.015625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .f56 {
+  -webkit-text-fill-color: #0000;
+  background: linear-gradient(-90deg, #ff9a3b, #ff5a00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  line-height: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o1 .price {
+  margin-top: 0.390625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 3.277344rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .f56 {
+  -webkit-text-fill-color: #0000;
+  background: linear-gradient(-90deg, #ff9a3b, #ff5a00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  line-height: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .f24,
+.redmi-smart-band-pro.overview-con .section-o101 .f30 {
+  line-height: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .f30 {
+  margin: 0.046875rem 0 0.015625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img {
+  display: block;
+  opacity: 0;
+  position: absolute;
+  transform: translateY(2vh);
+  z-index: 2;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img01 {
+  height: 1.046875rem;
+  left: 2.519531rem;
+  top: 0.015625rem;
+  width: 1.164063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img02 {
+  height: 0.953125rem;
+  left: 2.519531rem;
+  top: 1.125rem;
+  width: 1.164063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img03 {
+  height: 2.0625rem;
+  left: 3.75rem;
+  top: 0.015625rem;
+  width: 1.648438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img04 {
+  height: 1.042969rem;
+  left: 5.453125rem;
+  top: 0.015625rem;
+  width: 1.175781rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img05 {
+  height: 0.957031rem;
+  left: 5.453125rem;
+  top: 1.117188rem;
+  width: 0.777344rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img06 {
+  height: 1.042969rem;
+  left: 6.695313rem;
+  top: 0.015625rem;
+  width: 0.773438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .img07 {
+  height: 0.957031rem;
+  left: 6.304688rem;
+  top: 1.117188rem;
+  width: 1.175781rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item {
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  transform: translateY(2vh);
+  z-index: 3;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item01 {
+  left: 2.519531rem;
+  top: 0.390625rem;
+  width: 1.164063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item02 {
+  left: 3.753906rem;
+  top: 0.351563rem;
+  width: 1.640625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item03 {
+  left: 5.457031rem;
+  top: 0.648438rem;
+  width: 1.171875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item04 {
+  left: 6.703125rem;
+  top: 0.59375rem;
+  width: 0.765625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item04 .f30 {
+  margin: 0.023438rem 0 0;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item05 {
+  left: 2.519531rem;
+  top: 1.660156rem;
+  width: 1.164063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item06 {
+  left: 5.460938rem;
+  top: 1.671875rem;
+  width: 0.773438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101 .item07 {
+  height: 0.957031rem;
+  left: 6.3125rem;
+  top: 1.679688rem;
+  width: 1.167969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img01,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item01 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.3s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img02,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item05 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.6s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img03,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item02 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.9s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img04,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item03 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.2s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img05,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item06 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.5s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img06,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item04 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.8s;
+}
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .img07,
+.redmi-smart-band-pro.overview-con .section-o101.is-visible .item07 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 2.1s;
+}
+.redmi-smart-band-pro.overview-con .section-o2 {
+  background-color: #020202;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .div-mask {
+  background: #0009;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  text-align: center;
+  z-index: 4;
+  height: 100vh;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .first-pin {
+  z-index: 3;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .sec-pin {
+  bottom: 0.925781rem;
+  height: 2.90625rem;
+  left: 4.121094rem;
+  position: absolute;
+  width: 2.988281rem;
+  z-index: 4;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .img {
+  bottom: 0;
+  height: 4.691406rem;
+  position: absolute;
+  width: 10rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .icon01 {
+  height: 2.90625rem;
+  width: 2.988281rem;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .text {
+  margin: 0 auto;
+  width: 3.90625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .f26 {
+  color: #fff;
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o2 .xm-text {
+  opacity: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o3 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 10.765625rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .item01 {
+  left: 1.914063rem;
+  top: 1.601563rem;
+  width: 2.96875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .text-list {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 0.390625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .item {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  text-align: left;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .f38 {
+  -webkit-text-fill-color: #0000;
+  background: linear-gradient(-90deg, #ff9a3b, #ff5a00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  line-height: 1.3;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .f24 {
+  line-height: 1.1;
+  margin-top: 0.078125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .items {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .mt66 {
+  margin-top: 0.257813rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .text:first-of-type {
+  border-right: 1px solid #efefef;
+  width: 1.171875rem;
+}
+.hairlines .redmi-smart-band-pro.overview-con .section-o3 .text:first-of-type {
+  border-right: 0.5px solid #efefef;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .text:nth-of-type(2) {
+  margin-left: 0.203125rem;
+  width: 1.5625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o3 .item02 {
+  display: flex;
+  flex-direction: column;
+  left: 5.703125rem;
+  position: relative;
+  top: 7.304688rem;
+  width: 1.953125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 {
+  background: #f7f7f7;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .text-content {
+  margin: 0 auto;
+  padding-top: 0.625rem;
+  text-align: center;
+  width: 4.296875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon {
+  display: block;
+  margin: 0 auto;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon01,
+.redmi-smart-band-pro.overview-con .section-o4 .icon02 {
+  height: 0.316406rem;
+  width: 0.339844rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon03 {
+  height: 0.347656rem;
+  width: 0.253906rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon04 {
+  height: 0.304688rem;
+  width: 0.339844rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon05 {
+  height: 0.367188rem;
+  width: 0.203125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon06 {
+  height: 0.339844rem;
+  width: 0.339844rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon07 {
+  height: 0.367188rem;
+  width: 0.257813rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon08 {
+  height: 0.300781rem;
+  width: 0.296875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon09 {
+  height: 0.351563rem;
+  width: 0.273438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon10 {
+  height: 0.292969rem;
+  width: 0.285156rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon11 {
+  height: 0.347656rem;
+  width: 0.296875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon12 {
+  height: 0.394531rem;
+  width: 0.21875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon13 {
+  height: 0.363281rem;
+  width: 0.335938rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon14 {
+  height: 0.382813rem;
+  width: 0.171875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon15 {
+  height: 0.1875rem;
+  width: 0.3125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon16 {
+  height: 0.050781rem;
+  width: 0.265625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon-box {
+  align-items: center;
+  display: flex;
+  height: 0.394531rem;
+  margin: 0 auto;
+  width: 0.339844rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .icon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0.429688rem auto 0;
+  padding-bottom: 0.78125rem;
+  width: 7.1875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 0.898438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .item:nth-of-type(n + 9) {
+  margin-top: 0.203125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o4 .item .f26 {
+  line-height: 1.1;
+  margin-top: 0.117188rem;
+  text-align: center;
+}
+.redmi-smart-band-pro.overview-con .section-o5 {
+  background: #fff;
+  height: 5.390625rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .left-img-box {
+  height: 5.390625rem;
+  position: relative;
+  width: 6.15625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .right-img-box {
+  bottom: 0;
+  height: 1.8125rem;
+  position: absolute;
+  right: 0;
+  width: 4.078125rem;
+  z-index: 3;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .img {
+  display: none;
+  height: 5.390625rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6.15625rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .img.isimgactive {
+  display: block;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .imgs {
+  bottom: 0;
+  display: none;
+  height: 1.8125rem;
+  position: absolute;
+  right: 0;
+  width: 4.078125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .imgs.isimgsactive {
+  display: block;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .text-content {
+  background: #262928;
+  height: 3.578125rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 3.84375rem;
+  z-index: 2;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .text {
+  display: none;
+  left: 0.898438rem;
+  position: absolute;
+  text-align: left;
+  top: 1.171875rem;
+  width: 2.109375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .text.istextactive {
+  display: block;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .icon-list {
+  display: flex;
+  justify-content: space-between;
+  left: 0.898438rem;
+  position: absolute;
+  top: 2.265625rem;
+  width: 0.414063rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .btn {
+  width: 0.171875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .btn01 {
+  background: url(//i01.appmifile.com/webfile/globalimg/products/pc/redmi-smart-band-pro/section05-icon01.png)
+    50% no-repeat;
+  background-size: 100% 100%;
+  height: 0.167969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .btn01.isactive {
+  background: url(//i01.appmifile.com/webfile/globalimg/products/pc/redmi-smart-band-pro/section05-icon02s.png)
+    50% no-repeat;
+  background-size: 100% 100%;
+  height: 0.167969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .btn02 {
+  background: url(//i01.appmifile.com/webfile/globalimg/products/pc/redmi-smart-band-pro/section05-icon01s.png)
+    50% no-repeat;
+  background-size: 100% 100%;
+  height: 0.167969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .btn02.isactive {
+  background: url(//i01.appmifile.com/webfile/globalimg/products/pc/redmi-smart-band-pro/section05-icon02.png)
+    50% no-repeat;
+  background-size: 100% 100%;
+  height: 0.167969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .icon {
+  height: 0.054688rem;
+  width: 0.070313rem;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o5 .f26 {
+  line-height: 1.3;
+  margin-top: 0.15625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 5.3125rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .text-content {
+  display: flex;
+  flex-direction: column;
+  left: 1.445313rem;
+  position: absolute;
+  text-align: left;
+  top: 1.679688rem;
+  width: 2.851563rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .feature {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+  width: 1.835938rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .img-box {
+  height: 3.765625rem;
+  left: 4.109375rem;
+  position: absolute;
+  top: 1.523438rem;
+  width: 2.902344rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .img {
+  display: none;
+  height: 3.765625rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2.902344rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .img.isshow {
+  display: block;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .icon-list {
+  display: flex;
+  justify-content: space-between;
+  left: 6.367188rem;
+  position: absolute;
+  top: 2.304688rem;
+  width: 2.34375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .item {
+  background: #fff;
+  border-radius: 0.125rem;
+  box-shadow: 0 0.046875rem 0.160156rem 0 #42685e3b;
+  height: 0.625rem;
+  overflow: hidden;
+  position: relative;
+  width: 0.722656rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .item.isexpand,
+.redmi-smart-band-pro.overview-con .section-o6 .item:hover {
+  height: 0.976563rem;
+  transition: height 0.8s ease-in-out;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .icon {
+  display: block;
+  height: 0.378906rem;
+  margin: 0 auto;
+  padding-top: 0.125rem;
+  width: 0.386719rem;
+}
+.redmi-smart-band-pro.overview-con .section-o6 .f-medium {
+  display: block;
+  line-height: 1.2;
+  margin: 0.117188rem auto 0;
+  opacity: 0.8;
+  text-align: center;
+  width: 0.488281rem;
+}
+.redmi-smart-band-pro.overview-con .section-o7 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 5rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o7 .text-content {
+  padding: 1.171875rem 0 0 1.132813rem;
+  text-align: left;
+  width: 2.8125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o7 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o7 .feature {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 6.621094rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .text-content {
+  padding: 1.757813rem 0 0 5.703125rem;
+  text-align: left;
+  width: 2.8125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .f42 {
+  color: #4f4f4f;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .f26 {
+  line-height: 1.3;
+  margin-top: 0.140625rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .f18 {
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .feature {
+  line-height: 1.3;
+  margin-top: 0.140625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .icon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 0.390625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .item {
+  align-items: center;
+  display: flex;
+  width: 50%;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .item:nth-of-type(n + 3) {
+  margin-top: 0.15625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .icon {
+  display: block;
+  height: 0.308594rem;
+  width: 0.308594rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.078125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .txt {
+  align-items: baseline;
+  display: flex;
+  line-height: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .f20 {
+  margin-left: 0.023438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o8 .desc {
+  line-height: 1.3;
+  margin-top: 0.023438rem;
+}
+.redmi-smart-band-pro.overview-con .section-o9 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 5.269531rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o9 .text-content {
+  padding: 1.171875rem 0 0 1.796875rem;
+  text-align: left;
+  width: 2.8125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o9 .f42 {
+  color: #4f4f4f;
+}
+.redmi-smart-band-pro.overview-con .section-o9 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o9 .f26 {
+  line-height: 1.3;
+  margin-top: 0.140625rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o10 {
+  background: #fff;
+  height: 7.65625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .div-mask {
+  background: #0009;
+  position: absolute;
+  z-index: 5;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .img {
+  height: 4.722656rem;
+  position: absolute;
+  top: 0;
+  width: 10rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .img01 {
+  height: 3.625rem;
+  left: 50%;
+  position: absolute;
+  top: 3.789063rem;
+  transform: translateX(-50%);
+  width: 6.597656rem;
+  z-index: 5;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .text {
+  margin: 0 auto;
+  padding-top: 1.484375rem;
+  text-align: center;
+  width: 3.90625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .f72 {
+  line-height: 1.1;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .feature {
+  color: #fff;
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .text-content {
+  left: 5.546875rem;
+  position: absolute;
+  text-align: left;
+  top: 4.84375rem;
+  width: 2.109375rem;
+  z-index: 6;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .desc {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o10 .xm-text {
+  opacity: 1;
+}
+.redmi-smart-band-pro.overview-con .section-o11 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 8.734375rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .text-content {
+  margin: 0 auto;
+  padding-top: 0.585938rem;
+  text-align: center;
+  width: 2.8125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .f42 {
+  line-height: 1.3;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .item {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 2.070313rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .item01 {
+  left: 5.195313rem;
+  top: 2.226563rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .item02 {
+  left: 2.617188rem;
+  top: 4.492188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .item03 {
+  left: 5.195313rem;
+  top: 6.71875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o11 .item04 {
+  bottom: 0.527344rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.redmi-smart-band-pro.overview-con .section-o12 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 6.15625rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .text-content {
+  margin: 0 auto;
+  padding-top: 0.390625rem;
+  text-align: center;
+  width: 2.8125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .f38 {
+  color: #b3b3b3;
+  line-height: 1.3;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .first {
+  margin-top: 0.140625rem;
+}
+.redmi-smart-band-pro.overview-con .section-o12 .item {
+  display: flex;
+  flex-direction: column;
+  left: 2.1875rem;
+  position: absolute;
+  top: 2.589688rem;
+  width: 2.03125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 4.707031rem;
+  overflow: hidden;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o13.is-visible .imgs {
+  top: 0.9375rem;
+  transition: all 1s linear;
+}
+.redmi-smart-band-pro.overview-con .section-o13.is-visible .img01 {
+  top: 1.273438rem;
+  transition: all 1s linear;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .imgs {
+  display: block;
+  height: 3.863281rem;
+  left: 1.796875rem;
+  position: absolute;
+  top: -3.867188rem;
+  width: 3.429688rem;
+  z-index: 2;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .text-content {
+  left: 5.742188rem;
+  position: absolute;
+  text-align: left;
+  top: 0.898438rem;
+  width: 2.5rem;
+  z-index: 3;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .img {
+  display: block;
+  height: 0.210938rem;
+  margin-top: 0.1875rem;
+  width: 1.554688rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .img01 {
+  height: 2rem;
+  left: 3.515625rem;
+  position: absolute;
+  top: -2.011719rem;
+  width: 1.667969rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .feature {
+  color: #fc4c02;
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .line {
+  background: #bfbfbf;
+  height: 1px;
+  margin-top: 0.15625rem;
+  width: 2.34375rem;
+}
+.hairlines .redmi-smart-band-pro.overview-con .section-o13 .line {
+  height: 0.5px;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .icon-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.078125rem 0 0 -0.101563rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .item {
+  align-items: center;
+  display: flex;
+  text-align: left;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .icon {
+  display: block;
+  height: 0.804688rem;
+  width: 0.804688rem;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .desc {
+  line-height: 1.2;
+  margin-top: 0;
+}
+.redmi-smart-band-pro.overview-con .section-o13 .tips {
+  color: #343434;
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro.overview-con .section-o14 {
+  background: #1f1f1f;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .text-content {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-top: 0.429688rem;
+  text-align: center;
+  width: 4.453125rem;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .icon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 0.34375rem;
+  padding-bottom: 0.703125rem;
+  width: 100%;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .f72 {
+  line-height: 1.1;
+  margin-top: 0.09375rem;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .f26 {
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+  opacity: 0.7;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 0.78125rem;
+  text-align: center;
+  width: 20%;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .icon {
+  display: block;
+  height: 0.386719rem;
+  margin: 0 aut0;
+  width: 0.386719rem;
+}
+.redmi-smart-band-pro.overview-con .section-o14 .feature {
+  opacity: 0.5;
+}
+.redmi-smart-band-pro.overview-con .section-o15 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1.910156rem;
+  position: relative;
+}
+.redmi-smart-band-pro.overview-con .section-o15 .f64 {
+  left: 3.125rem;
+  line-height: 1.1;
+  position: absolute;
+  top: 0.78125rem;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.redmi-smart-band-pro.overview-con .section-o15 .f64:hover {
+  text-decoration: underline;
+}
+.redmi-smart-band-pro.overview-con .section-o16 {
+  background: #fff;
+}
+.redmi-smart-band-pro.overview-con .section-o16 .text-content {
+  margin: 0 auto;
+  padding: 0.339844rem 0 0.527344rem;
+  text-align: left;
+  width: 5.546875rem;
+}
+.redmi-smart-band-pro.overview-con .section-o16 .f16 {
+  line-height: 1.3;
+  opacity: 0.5;
+}
+.redmi-smart-band-pro-in.overview-con {
+  width: 10rem;
+}
+.redmi-smart-band-pro-in.overview-con .xm-price,
+.redmi-smart-band-pro-in.overview-con .xm-text,
+.redmi-smart-band-pro-in.overview-con .xm-visible {
+  opacity: 0;
+  transform: translateY(2vh);
+}
+.redmi-smart-band-pro-in.overview-con .is-visible .xm-price,
+.redmi-smart-band-pro-in.overview-con .is-visible .xm-text,
+.redmi-smart-band-pro-in.overview-con .is-visible .xm-visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear;
+}
+.redmi-smart-band-pro-in.overview-con .f12 {
+  font-size: 0.046875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f14 {
+  font-size: 0.054688rem;
+}
+.redmi-smart-band-pro-in.overview-con .f16 {
+  font-size: 0.0625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f18 {
+  font-size: 0.070313rem;
+}
+.redmi-smart-band-pro-in.overview-con .f20 {
+  font-size: 0.078125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f22 {
+  font-size: 0.085938rem;
+}
+.redmi-smart-band-pro-in.overview-con .f24 {
+  font-size: 0.09375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f26 {
+  font-size: 0.101563rem;
+}
+.redmi-smart-band-pro-in.overview-con .f28 {
+  font-size: 0.109375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f30 {
+  font-size: 0.117188rem;
+}
+.redmi-smart-band-pro-in.overview-con .f32 {
+  font-size: 0.125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f34 {
+  font-size: 0.132813rem;
+}
+.redmi-smart-band-pro-in.overview-con .f36 {
+  font-size: 0.140625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f38 {
+  font-size: 0.148438rem;
+}
+.redmi-smart-band-pro-in.overview-con .f40 {
+  font-size: 0.15625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f42 {
+  font-size: 0.164063rem;
+}
+.redmi-smart-band-pro-in.overview-con .f44 {
+  font-size: 0.171875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f46 {
+  font-size: 0.179688rem;
+}
+.redmi-smart-band-pro-in.overview-con .f48 {
+  font-size: 0.1875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f50 {
+  font-size: 0.195313rem;
+}
+.redmi-smart-band-pro-in.overview-con .f52 {
+  font-size: 0.203125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f54 {
+  font-size: 0.210938rem;
+}
+.redmi-smart-band-pro-in.overview-con .f56 {
+  font-size: 0.21875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f58 {
+  font-size: 0.226563rem;
+}
+.redmi-smart-band-pro-in.overview-con .f60 {
+  font-size: 0.234375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f62 {
+  font-size: 0.242188rem;
+}
+.redmi-smart-band-pro-in.overview-con .f64 {
+  font-size: 0.25rem;
+}
+.redmi-smart-band-pro-in.overview-con .f66 {
+  font-size: 0.257813rem;
+}
+.redmi-smart-band-pro-in.overview-con .f68 {
+  font-size: 0.265625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f70 {
+  font-size: 0.273438rem;
+}
+.redmi-smart-band-pro-in.overview-con .f72 {
+  font-size: 0.28125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f74 {
+  font-size: 0.289063rem;
+}
+.redmi-smart-band-pro-in.overview-con .f76 {
+  font-size: 0.296875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f78 {
+  font-size: 0.304688rem;
+}
+.redmi-smart-band-pro-in.overview-con .f80 {
+  font-size: 0.3125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f82 {
+  font-size: 0.320313rem;
+}
+.redmi-smart-band-pro-in.overview-con .f86 {
+  font-size: 0.335938rem;
+}
+.redmi-smart-band-pro-in.overview-con .f88 {
+  font-size: 0.34375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f90 {
+  font-size: 0.351563rem;
+}
+.redmi-smart-band-pro-in.overview-con .f92 {
+  font-size: 0.359375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f98 {
+  font-size: 0.382813rem;
+}
+.redmi-smart-band-pro-in.overview-con .f100 {
+  font-size: 0.390625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f106 {
+  font-size: 0.414063rem;
+}
+.redmi-smart-band-pro-in.overview-con .f108 {
+  font-size: 0.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f110 {
+  font-size: 0.429688rem;
+}
+.redmi-smart-band-pro-in.overview-con .f114 {
+  font-size: 0.445313rem;
+}
+.redmi-smart-band-pro-in.overview-con .f116 {
+  font-size: 0.453125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f120 {
+  font-size: 0.46875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f128 {
+  font-size: 0.5rem;
+}
+.redmi-smart-band-pro-in.overview-con .f130 {
+  font-size: 0.507813rem;
+}
+.redmi-smart-band-pro-in.overview-con .f138 {
+  font-size: 0.539063rem;
+}
+.redmi-smart-band-pro-in.overview-con .f140 {
+  font-size: 0.546875rem;
+}
+.redmi-smart-band-pro-in.overview-con .f142 {
+  font-size: 0.554688rem;
+}
+.redmi-smart-band-pro-in.overview-con .f144 {
+  font-size: 0.5625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f146 {
+  font-size: 0.570313rem;
+}
+.redmi-smart-band-pro-in.overview-con .f148 {
+  font-size: 0.578125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f150 {
+  font-size: 0.585938rem;
+}
+.redmi-smart-band-pro-in.overview-con .f156 {
+  font-size: 0.609375rem;
+}
+.redmi-smart-band-pro-in.overview-con .f160 {
+  font-size: 0.625rem;
+}
+.redmi-smart-band-pro-in.overview-con .f190 {
+  font-size: 0.742188rem;
+}
+.redmi-smart-band-pro-in.overview-con .f200 {
+  font-size: 0.78125rem;
+}
+.redmi-smart-band-pro-in.overview-con .f248 {
+  font-size: 0.96875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 {
+  height: 5.1875rem;
+  overflow: hidden;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .text-content {
+  margin-left: 1.726563rem;
+  margin-top: 2.183594rem;
+  width: 2.539063rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .f90 {
+  color: #010101;
+  line-height: 0.371094rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .f64 {
+  color: #232022;
+  line-height: 0.285156rem;
+  margin-top: 0.078125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .price {
+  margin-top: 0.390625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slider-area-box {
+  border-radius: 0.15625rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  left: 5.992188rem;
+  overflow: hidden;
+  position: absolute;
+  top: 0.976563rem;
+  transform: rotate3d(0.5, 0.6, 0.1, -20deg);
+  transform-style: preserve-3d;
+  width: 1.132813rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slick-track {
+  background-color: #000;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slider-box {
+  width: 2.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slick-list {
+  width: 1.132813rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider
+  .slick-track {
+  display: flex !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider
+  .slick-list {
+  overflow: visible !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider
+  .slick-slide {
+  display: flex !important;
+  justify-content: center;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider
+  .slick-slide
+  div,
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider
+  .slick-slide
+  div
+  img {
+  height: 2.1875rem;
+  width: 1.132813rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slick-dots {
+  opacity: 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slick-next,
+.redmi-smart-band-pro-in.overview-con .section_01 .slick-prev {
+  display: none !important;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slider-area-box2 {
+  border-radius: 0.097656rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  left: 7.628906rem;
+  overflow: hidden;
+  position: absolute;
+  top: 1.992188rem;
+  width: 0.78125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_01 .slider-box2 {
+  width: 2.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .slider-area-box2
+  .slick-list {
+  width: 0.78125rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider2
+  .slick-track {
+  display: flex !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider2
+  .slick-list {
+  overflow: visible !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider2
+  .slick-slide {
+  display: flex !important;
+  justify-content: center;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider2
+  .slick-slide
+  div,
+.redmi-smart-band-pro-in.overview-con
+  .section_01
+  .perspective-slider2
+  .slick-slide
+  div
+  img {
+  height: 1.601563rem;
+  width: 0.78125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 {
+  height: 6.078125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item {
+  color: #fff;
+  line-height: 0.292969rem;
+  opacity: 0;
+  position: absolute;
+  transform: translateY(2vh);
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item01 {
+  left: 1.851563rem;
+  top: 0.292969rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item02 {
+  left: 1.851563rem;
+  top: 2.226563rem;
+  width: 1.71875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item03 {
+  left: 4.089844rem;
+  top: 0.304688rem;
+  width: 1.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item04 {
+  left: 6.308594rem;
+  top: 0.304688rem;
+  width: 1.875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item04 .f30 {
+  margin: 0.023438rem 0 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item05 {
+  left: 6.324219rem;
+  top: 3.023438rem;
+  width: 1.835938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item06 {
+  left: 1.839844rem;
+  top: 4.105469rem;
+  width: 1.945313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .item07 {
+  left: 5.054688rem;
+  top: 4.105469rem;
+  width: 2.304688rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img01 {
+  height: 1.859375rem;
+  width: 2.179688rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img02 {
+  height: 1.824219rem;
+  width: 2.175781rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img03 {
+  height: 3.746094rem;
+  width: 2.152344rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img04 {
+  height: 2.65625rem;
+  width: 2.277344rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img05 {
+  height: 1.027344rem;
+  width: 2.261719rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img06 {
+  height: 1.234375rem;
+  width: 3.128906rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .img07 {
+  height: 1.234375rem;
+  width: 3.535156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .f60 {
+  position: absolute;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t1 {
+  left: 0.351563rem;
+  top: 1.457031rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t2 {
+  left: 0.160156rem;
+  top: 0.53125rem;
+  width: 1.722656rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t3 {
+  height: 0.445313rem;
+  left: 0.367188rem;
+  top: 0.261719rem;
+  width: 1.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t4 {
+  color: #000;
+  height: 0.488281rem;
+  left: 0.199219rem;
+  line-height: 0.28125rem;
+  top: 0.363281rem;
+  width: 1.875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t5 {
+  left: 0.144531rem;
+  top: 0.632813rem;
+  width: 1.835938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t6 {
+  left: 0.59375rem;
+  top: 0.792969rem;
+  width: 2.109375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02 .t7 {
+  color: #000;
+  left: 0.160156rem;
+  top: 0.398438rem;
+  width: 2.382813rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item01 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.3s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item02 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.6s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item03 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 0.9s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item04 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.2s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item05 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.5s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item06 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 1.8s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02.is-visible .item07 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s linear 2.1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_02_1,
+.redmi-smart-band-pro-in.overview-con .section_02_1 .video {
+  height: 5.625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 {
+  background-color: #020202;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .div-mask {
+  background: #0009;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  text-align: center;
+  z-index: 4;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .first-pin {
+  z-index: 3;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .sec-pin {
+  bottom: 0.925781rem;
+  height: 2.90625rem;
+  left: 4.121094rem;
+  position: absolute;
+  width: 2.988281rem;
+  z-index: 4;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .img {
+  bottom: 0;
+  height: 4.691406rem;
+  position: absolute;
+  width: 10rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .icon01 {
+  height: 2.90625rem;
+  width: 2.988281rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .text {
+  margin: 0 auto;
+  width: 3.90625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .f72 {
+  color: #fff;
+  line-height: 1.1;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .f26 {
+  color: #fff;
+  line-height: 1.3;
+  margin-top: 0.117188rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o2 .xm-text {
+  opacity: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_03 {
+  height: 5.988281rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_03 .slider-box {
+  margin: 0 auto;
+  position: relative;
+  width: 10rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_03 .slider-box .slick-dots {
+  margin-bottom: 0.421875rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_03
+  .slider-box
+  .slick-dots
+  li
+  button {
+  height: 0.140625rem;
+  width: 0.140625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_03 .slick-next,
+.redmi-smart-band-pro-in.overview-con .section_03 .slick-prev {
+  display: none !important;
+}
+.redmi-smart-band-pro-in.overview-con .bg_white {
+  background-color: #fff;
+  padding-bottom: 0.371094rem;
+  padding-top: 0.507813rem;
+  text-align: center;
+}
+.redmi-smart-band-pro-in.overview-con .bg_white .img_white {
+  display: block;
+  height: 0.535156rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 4.148438rem;
+}
+.redmi-smart-band-pro-in.overview-con .bg_white .f40 {
+  color: #383838;
+  line-height: 0.195313rem;
+  margin-top: 0.234375rem;
+  width: 5.78125rem;
+}
+.redmi-smart-band-pro-in.overview-con .bg_white .desc {
+  margin-top: 0.351563rem;
+}
+.redmi-smart-band-pro-in.overview-con .bg_white.is-visible .img_white {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_04 {
+  background-color: #fff;
+  background-image: none !important;
+  background-size: 100% 5.828125rem;
+  height: 5.195313rem;
+  position: relative;
+}
+.redmi-smart-band-pro-in.overview-con .section_04 .p4-1 {
+  display: block;
+  height: 4.753906rem;
+  left: 4.121094rem;
+  position: absolute;
+  top: 0.488281rem;
+  width: 1.757813rem;
+  z-index: 2;
+}
+.redmi-smart-band-pro-in.overview-con .section_04 .section04-slider-box {
+  bottom: 0.585938rem;
+  height: 3.761719rem;
+  left: 1.25rem;
+  position: absolute;
+  width: 7.542969rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_04 .section04-slider-box img {
+  height: 3.761719rem;
+  width: 7.542969rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-list {
+  border-radius: 0.078125rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-dots {
+  margin-bottom: -0.351563rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-dots
+  li
+  button {
+  background-color: #1a1a1a;
+  height: 0.140625rem;
+  width: 0.140625rem;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-dots
+  li.slick-active
+  button {
+  background-color: #9f9f9f;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-next,
+.redmi-smart-band-pro-in.overview-con
+  .section_04
+  .section04-slider-box
+  .slick-prev {
+  display: none !important;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 {
+  height: 10.695313rem;
+  padding-top: 0.609375rem;
+  position: relative;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .text-content {
+  color: #fff;
+  margin: 0.585938rem auto 0;
+  text-align: center;
+  width: 6.875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .p5-1 {
+  display: block;
+  height: 0.398438rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 6.761719rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .p5-3 {
+  height: 0.203125rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 3.945313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .f40 {
+  line-height: 0.171875rem;
+  margin-top: 0.234375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .desc {
+  margin-top: 0.15625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon {
+  display: block;
+  margin: 0 auto;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon01 {
+  height: 0.417969rem;
+  width: 0.34375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon02 {
+  height: 0.402344rem;
+  width: 0.390625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon03 {
+  height: 0.398438rem;
+  width: 0.285156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon04 {
+  height: 0.394531rem;
+  width: 0.40625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon05 {
+  height: 0.40625rem;
+  width: 0.304688rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon06 {
+  height: 0.382813rem;
+  width: 0.433594rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon07 {
+  height: 0.367188rem;
+  width: 0.332031rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon08 {
+  height: 0.40625rem;
+  width: 0.4375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon09 {
+  height: 0.378906rem;
+  width: 0.417969rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon10 {
+  height: 0.367188rem;
+  width: 0.320313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon11 {
+  height: 0.378906rem;
+  width: 0.28125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon12 {
+  height: 0.410156rem;
+  width: 0.363281rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon13 {
+  height: 0.371094rem;
+  width: 0.316406rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon14 {
+  height: 0.386719rem;
+  width: 0.394531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon15 {
+  height: 0.054688rem;
+  width: 0.238281rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon-box {
+  align-items: center;
+  display: flex;
+  height: 0.394531rem;
+  margin: 0 auto;
+  width: 0.339844rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .icon-list {
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0.429688rem auto 0;
+  padding-bottom: 0.78125rem;
+  width: 4.6875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 0.898438rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .item:nth-of-type(n + 6) {
+  margin-top: 0.203125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .item:nth-of-type(n + 11) {
+  margin-top: 0.148438rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .item .f30 {
+  line-height: 1.1;
+  margin-top: 0.117188rem;
+  text-align: center;
+}
+.redmi-smart-band-pro-in.overview-con .section_05 .p5-2 {
+  bottom: 0;
+  display: block;
+  height: 4.371094rem;
+  left: 3.34375rem;
+  position: absolute;
+  width: 3.253906rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_05.is-visible .p5-1,
+.redmi-smart-band-pro-in.overview-con .section_05.is-visible .p5-3 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 {
+  height: 4.140625rem;
+  position: relative;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .text-content {
+  color: #fff;
+  margin-left: 3.78125rem;
+  padding-top: 0.742188rem;
+  text-align: right;
+  width: 4.910156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .p6-7 {
+  display: block;
+  height: 0.203125rem;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 4.910156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .f40 {
+  line-height: 0.171875rem;
+  margin-top: 0.40625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .text {
+  margin-top: 0.195313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .img_flex {
+  display: flex;
+  left: 2.78125rem;
+  position: absolute;
+  top: 2.472656rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 2.675781rem;
+  margin-right: 0.234375rem;
+  width: 1.019531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .icon_img {
+  height: 2.675781rem;
+  width: 1.019531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06 .desc {
+  margin-left: 0.097656rem;
+  margin-top: 0.175781rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_06.is-visible .p6-7 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 {
+  height: 5.8125rem;
+  padding-top: 2.085938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 .p7-1,
+.redmi-smart-band-pro-in.overview-con .section_07 .p7-2 {
+  display: block;
+  height: 0.464844rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 6.785156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 .p7-1 {
+  height: 0.707031rem;
+  margin-top: 0.410156rem;
+  width: 1.757813rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 .text-content {
+  margin: 0.117188rem auto 0;
+  text-align: center;
+  width: 4.6875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 .f-bold {
+  color: #363638;
+  font-weight: 700;
+  line-height: 0.269531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07 .f-medium {
+  color: #383838;
+  line-height: 0.171875rem;
+  margin-top: 0.210938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_07.is-visible .p7-1,
+.redmi-smart-band-pro-in.overview-con .section_07.is-visible .p7-2 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 {
+  color: #fff;
+  height: 7.199219rem;
+  padding-top: 0.492188rem;
+  text-align: center;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .like {
+  align-items: center;
+  background: #dc2f3f;
+  border-radius: 50%;
+  display: flex;
+  font-size: 0.273438rem;
+  height: 0.453125rem;
+  justify-content: center;
+  left: 4.625rem;
+  line-height: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 2.453125rem;
+  transform: rotate3d(2.9, 0.8, 4, -95deg);
+  transform-style: preserve-3d;
+  width: 0.453125rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .like_desc {
+  margin-top: 0 !important;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .like span {
+  color: #fff;
+  position: absolute;
+  z-index: 20;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .like:before {
+  animation: rotate 10s linear infinite;
+  background: #491218;
+  border-radius: 40%;
+  content: "";
+  height: 1.5625rem;
+  left: 20%;
+  position: absolute;
+  top: -0.117188rem;
+  width: 1.5625rem;
+  z-index: 10;
+}
+@keyframes rotate {
+  0% {
+    transform: translate(-30%, -70%) rotate(0deg);
+  }
+  50% {
+    transform: translate(-40%, -73%) rotate(180deg);
+  }
+  to {
+    transform: translate(-30%, -70%) rotate(1turn);
+  }
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process {
+  height: 0.570313rem;
+  left: 4.570313rem;
+  position: absolute;
+  top: 2.398438rem;
+  transform: rotate3d(2.9, 0.8, 4, -95deg);
+  transform-style: preserve-3d;
+  width: 0.570313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .wrapper {
+  height: 0.570313rem;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 0.285156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .right {
+  right: 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .left {
+  left: 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .circle {
+  border: 0.019531rem solid #4d1423;
+  border-radius: 50%;
+  height: 0.53125rem;
+  position: absolute;
+  top: 0;
+  transform: rotate(-135deg);
+  width: 0.53125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .rightcircle {
+  animation: circle_right 30s linear infinite;
+  border-right: 0.019531rem solid #dc2f3f;
+  border-top: 0.019531rem solid #dc2f3f;
+  right: 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .circle_process .leftcircle {
+  animation: circle_left 30s linear infinite;
+  border-bottom: 0.019531rem solid #dc2f3f;
+  border-left: 0.019531rem solid #dc2f3f;
+  left: 0;
+}
+@keyframes circle_right {
+  0% {
+    transform: rotate(-135deg);
+  }
+  50%,
+  to {
+    transform: rotate(45deg);
+  }
+}
+@keyframes circle_left {
+  0%,
+  50% {
+    transform: rotate(-135deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .p8-1 {
+  display: block;
+  height: 0.285156rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 6.644531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .f-bold {
+  font-weight: 600;
+  line-height: 0.269531rem;
+  margin-top: 0.234375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .text-content {
+  margin-left: 2.019531rem;
+  margin-top: 4.53125rem;
+  width: 6.09375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08 .text {
+  line-height: 0.171875rem;
+  margin-top: 0.15625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_08.is-visible .p8-1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 {
+  height: 18.117188rem;
+  padding-top: 0.976563rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .black_bg {
+  background-color: #0a0a0ae6;
+  border-radius: 0.273438rem;
+  box-sizing: border-box;
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0.253906rem 0.320313rem 1rem 0.539063rem;
+  width: 6.148438rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .text_img {
+  height: 3.085938rem;
+  width: 2.402344rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .item {
+  line-height: 0.15625rem;
+  opacity: 0;
+  transform: translateY(2vh);
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .item01 {
+  margin-left: 0.21875rem;
+  margin-top: 1.046875rem;
+  width: 2.476563rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .item02 {
+  margin-left: 0.027344rem;
+  margin-top: 1.925781rem;
+  text-align: right;
+  width: 2.589844rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .item03 {
+  margin-left: 0.222656rem;
+  margin-top: 1.953125rem;
+  width: 2.070313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .item04 {
+  margin-left: 0.257813rem;
+  margin-top: 2.191406rem;
+  text-align: right;
+  width: 2.355469rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .f34 {
+  margin-top: 0.195313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .desc {
+  margin-top: 0.175781rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-3 {
+  margin-left: 0.261719rem;
+  margin-top: 0.582031rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-4 {
+  margin-top: 0.683594rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-5 {
+  margin-left: 0.261719rem;
+  margin-top: 0.722656rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-text1 {
+  height: 0.371094rem;
+  width: 2.472656rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-text2 {
+  height: 0.371094rem;
+  width: 2.140625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-text3 {
+  height: 0.371094rem;
+  width: 1.246094rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09 .p9-text4 {
+  height: 0.371094rem;
+  width: 1.886719rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_09.is-visible .item {
+  opacity: 1;
+  transform: translateY(0);
+}
+.redmi-smart-band-pro-in.overview-con .section_09.is-visible .item01 {
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_09.is-visible .item02 {
+  transition: 1s 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_09.is-visible .item03 {
+  transition: 1s 2s;
+}
+.redmi-smart-band-pro-in.overview-con .section_09.is-visible .item04 {
+  transition: 1s 3s;
+}
+.redmi-smart-band-pro-in.overview-con .section_10 {
+  background-color: #fff;
+  height: 6.5625rem;
+  padding-top: 0.535156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_10 .p10-1 {
+  display: block;
+  height: 0.214844rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 5.882813rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_10 .text-content {
+  line-height: 0.171875rem;
+  margin: 0.285156rem auto 0;
+  text-align: center;
+  width: 5.351563rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_10 .text {
+  margin-top: 0.195313rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_10 .p10 {
+  bottom: 0;
+  height: 4.03125rem;
+  position: absolute;
+}
+.redmi-smart-band-pro-in.overview-con .section_10.is-visible .p10-1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 {
+  color: #fff;
+  height: 5.867188rem;
+  padding-left: 1.726563rem;
+  padding-top: 1.15625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .p11-3 {
+  height: 0.203125rem;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 3.683594rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .text-content {
+  line-height: 0.171875rem;
+  margin-top: 0.359375rem;
+  text-align: left;
+  width: 3.660156rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .desc {
+  margin-left: 0.039063rem;
+  margin-top: 0.402344rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.351563rem;
+  width: 1.835938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .flex2 {
+  margin-top: 0.3125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .p11-1,
+.redmi-smart-band-pro-in.overview-con .section_11 .p11-2 {
+  height: 0.414063rem;
+  width: 0.753906rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .flex_text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-width: 0.746094rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .f92 {
+  color: #71b14a;
+  line-height: 0.9;
+}
+.redmi-smart-band-pro-in.overview-con .section_11 .f48 {
+  line-height: 0.195313rem;
+  margin-left: 0.039063rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_11.is-visible .p11-3 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_12 {
+  height: 4.394531rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_12 .p12-1 {
+  height: 0.535156rem;
+  left: 1.75rem;
+  opacity: 0;
+  position: absolute;
+  top: 0.914063rem;
+  transform: translateY(2vh);
+  width: 1.839844rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_12 .text-content {
+  left: 1.742188rem;
+  position: absolute;
+  text-align: left;
+  top: 1.789063rem;
+  width: 2.1875rem;
+  z-index: 1;
+}
+.redmi-smart-band-pro-in.overview-con .section_12 .f40 {
+  line-height: 0.171875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_12 .xm-text {
+  display: inline;
+}
+.redmi-smart-band-pro-in.overview-con .section_12.is-visible .p12-1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 {
+  height: 8.449219rem;
+  padding-top: 0.851563rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .p13-1 {
+  display: block;
+  height: 0.203125rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 5.722656rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_13.is-visible .p13-1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .text-content {
+  line-height: 0.171875rem;
+  margin: 0.257813rem auto 0;
+  text-align: center;
+  width: 5.664063rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .f40 {
+  margin-top: 0.15625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .slider-area-box {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 89%;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .small {
+  transform: scale(0.68);
+  transition: 0.5s;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .smallT {
+  transition: 0.5s;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .slider-box {
+  height: 3.90625rem;
+  margin-top: 1.992188rem;
+  width: 2.421875rem;
+  z-index: 2;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-track {
+  display: flex !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-list {
+  overflow: visible !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-slide {
+  display: flex !important;
+  float: unset !important;
+  height: 2.332031rem !important;
+  justify-content: center;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-slide
+  div,
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-slide
+  div
+  img {
+  border-radius: 0.117188rem;
+  height: 2.007813rem !important;
+  transition: 0.5s;
+  width: 1rem !important;
+}
+.redmi-smart-band-pro-in.overview-con
+  .section_13
+  .perspective-slider
+  .slick-slide.slick-center
+  div
+  img {
+  transform: scale(1.23);
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .slick-dots {
+  opacity: 0;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .slick-next,
+.redmi-smart-band-pro-in.overview-con .section_13 .slick-prev {
+  display: none !important;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .text {
+  bottom: 1.214844rem;
+  position: absolute;
+  right: 1.558594rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_13 .p13-2 {
+  height: 5.25rem;
+  left: 4.0625rem;
+  position: absolute;
+  top: 2.550781rem;
+  width: 2.4375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 {
+  color: #fff;
+  height: 8.035156rem;
+  padding-top: 0.546875rem;
+  text-align: center;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .p14-2 {
+  display: block;
+  height: 0.203125rem;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 4.824219rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .f40 {
+  font-weight: 500;
+  line-height: 0.171875rem;
+  margin-top: 0.296875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 0.839844rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .item1 {
+  left: 1.144531rem;
+  top: 2.03125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .item2 {
+  left: 2.019531rem;
+  top: 2.738281rem;
+  width: 1.210938rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .item3 {
+  left: 6.859375rem;
+  top: 2.707031rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .item4 {
+  left: 8rem;
+  top: 2.113281rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .p14-1 {
+  display: block;
+  height: 0.523438rem;
+  transform: translateY(2vh);
+  width: 0.523438rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14 .f30 {
+  display: block;
+  line-height: 0.125rem;
+  margin-bottom: 0.460938rem;
+  margin-top: 0.164063rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .p14-2 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_01,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_04,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_08,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_12 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear 0.5s;
+}
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_02,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_05,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_09,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_13 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_03,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_06,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_10,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_14 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear 1.5s;
+}
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_07,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_11,
+.redmi-smart-band-pro-in.overview-con .section_14.is-visible .img_15 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 1s linear 2s;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 {
+  background-color: #1f1f1f;
+  background-size: contain;
+  height: 5.636719rem;
+  overflow: hidden;
+  padding-top: 1.40625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .p15-1-copy {
+  height: 2rem;
+  left: 3.515625rem;
+  position: absolute;
+  top: -2rem;
+  width: 1.667969rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .p15-1 {
+  height: 0.261719rem;
+  margin-left: 5.273438rem;
+  opacity: 0;
+  transform: translateY(2vh);
+  width: 3.921875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15.is-visible .p15-1 {
+  opacity: 1;
+  transform: translateY(0);
+  transition: 1s;
+}
+.redmi-smart-band-pro-in.overview-con .section_15.is-visible .p15-1-copy {
+  top: 1.289063rem;
+  transition: all 1s linear;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .text-content {
+  margin-left: 5.273438rem;
+  margin-top: 0.109375rem;
+  width: 3.59375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .f40 {
+  color: #383838;
+  line-height: 0.171875rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .img_flex {
+  display: flex;
+  margin-bottom: 0.351563rem;
+  margin-top: 0.300781rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .p15-2 {
+  height: 0.371094rem;
+  width: 1.09375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .p15-3 {
+  height: 0.394531rem;
+  margin-left: 0.21875rem;
+  width: 1.425781rem;
+}
+.redmi-smart-band-pro-in.overview-con .section_15 .p15-4 {
+  height: 0.34375rem;
+  width: 2.09375rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o10 {
+  background: #fff;
+}
+.redmi-smart-band-pro-in.overview-con .section-o10 .text-content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0.390625rem 0;
+  text-align: left;
+  width: 5.703125rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o10 .title {
+  margin-bottom: 0.140625rem;
+}
+.redmi-smart-band-pro-in.overview-con .section-o10 .feature {
+  color: #878787;
+  line-height: 1.3;
+}
+.mi-modal.mi-modal--desktop .ReactModal__Overlay--after-open.mi-modal__overlay,
+.mi-modal.mi-modal--mobile .ReactModal__Overlay--after-open.mi-modal__overlay,
+.mi-modal.mi-modal--responsive
+  .ReactModal__Overlay--after-open.mi-modal__overlay {
+  background-color: #000000b3;
+}
+.mi-modal.mi-modal--desktop .ReactModal__Content.video_modal,
+.mi-modal.mi-modal--mobile .ReactModal__Content.video_modal,
+.mi-modal.mi-modal--responsive .ReactModal__Content.video_modal {
+  background-color: #000;
+  height: 75%;
+  overflow: hidden;
+  width: 80%;
+}
+.mi-modal.mi-modal--desktop .ReactModal__Content.video_modal .mi-modal__main,
+.mi-modal.mi-modal--desktop .ReactModal__Content.video_modal .modal-video,
+.mi-modal.mi-modal--mobile .ReactModal__Content.video_modal .mi-modal__main,
+.mi-modal.mi-modal--mobile .ReactModal__Content.video_modal .modal-video,
+.mi-modal.mi-modal--responsive .ReactModal__Content.video_modal .mi-modal__main,
+.mi-modal.mi-modal--responsive .ReactModal__Content.video_modal .modal-video {
+  height: 100%;
+  width: 100%;
+}
+.mi-modal.mi-modal--desktop .ReactModal__Content.video_modal .modal-video,
+.mi-modal.mi-modal--mobile .ReactModal__Content.video_modal .modal-video,
+.mi-modal.mi-modal--responsive .ReactModal__Content.video_modal .modal-video {
+  border: unset;
+  object-fit: contain;
+}
+.mi-modal.mi-modal--desktop .xiaomi.icon-close:before,
+.mi-modal.mi-modal--mobile .xiaomi.icon-close:before,
+.mi-modal.mi-modal--responsive .xiaomi.icon-close:before {
+  display: none;
+}
+.mi-modal.mi-modal--mobile .ReactModal__Overlay--after-open.mi-modal__overlay {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.mi-modal.mi-modal--mobile .ReactModal__Content.video_modal.product-mobile {
+  background-color: #000;
+  height: 100vh;
+  width: 100vw;
+}
+.scroll-parallax .div-mask {
+  height: 100vh;
+}
+.scroll-parallax {
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+.scroll-parallax .first-pin {
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+}
+.scroll-parallax .div-mask {
+  height: 4.722656rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+.specs-con {
+  background-color: #fff;
+  width: 100%;
+}
+.specs-con .f12 {
+  font-size: 12px;
+}
+.specs-con .f14 {
+  font-size: 14px;
+}
+.specs-con .f16 {
+  font-size: 16px;
+}
+.specs-con .f18 {
+  font-size: 18px;
+}
+.specs-con .f20 {
+  font-size: 20px;
+}
+.specs-con .f22 {
+  font-size: 22px;
+}
+.specs-con .f24 {
+  font-size: 24px;
+}
+.specs-con .f28 {
+  font-size: 28px;
+}
+.specs-con .f30 {
+  font-size: 30px;
+}
+.specs-con .f32 {
+  font-size: 32px;
+}
+.specs-con .f36 {
+  font-size: 36px;
+}
+.specs-con .f38 {
+  font-size: 38px;
+}
+.specs-con .f40 {
+  font-size: 40px;
+}
+.specs-con .f46 {
+  font-size: 46px;
+}
+.specs-con .f48 {
+  font-size: 48px;
+}
+.specs-con .f50 {
+  font-size: 50px;
+}
+.specs-con .f56 {
+  font-size: 56px;
+}
+.specs-con .f60 {
+  font-size: 60px;
+}
+.specs-con .f64 {
+  font-size: 64px;
+}
+.specs-con .f70 {
+  font-size: 70px;
+}
+.specs-con .f72 {
+  font-size: 72px;
+}
+.specs-con .f74 {
+  font-size: 74px;
+}
+.specs-con .f76 {
+  font-size: 76px;
+}
+.specs-con .f80 {
+  font-size: 80px;
+}
+.specs-con .f90 {
+  font-size: 90px;
+}
+.specs-con .f100 {
+  font-size: 100px;
+}
+.specs-con .f110 {
+  font-size: 110px;
+}
+.specs-con .f120 {
+  font-size: 120px;
+}
+.specs-con .f130 {
+  font-size: 130px;
+}
+.specs-con .f140 {
+  font-size: 140px;
+}
+.specs-con .f148 {
+  font-size: 148px;
+}
+.specs-con .f150 {
+  font-size: 150px;
+}
+.specs-con .black {
+  color: #000;
+}
+.specs-con .gray {
+  color: #000c;
+}
+.specs-con .section {
+  border-bottom: 1px solid #00000029;
+  margin: 0 auto;
+  width: 1226px;
+}
+.specs-con .section:last-child {
+  border-bottom: unset;
+}
+.specs-con .section-s1 {
+  background: #f3f2f2;
+  border: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 100px 0;
+  width: 100%;
+}
+.specs-con .section-s1 .image {
+  display: block;
+  height: 534px;
+  margin: 100px auto 0;
+  width: 487px;
+}
+.specs-con .section-s2 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 76px 0 66px;
+}
+.specs-con .section-s2 .title {
+  line-height: 1.3;
+  width: 226px;
+}
+.specs-con .section-s2 .text-container {
+  box-sizing: border-box;
+  padding-top: 2px;
+  width: 916px;
+}
+.specs-con .section-s2 .desc {
+  align-items: stretch;
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+.specs-con .section-s2 .desc:nth-child(n + 2) {
+  margin-top: 25px;
+}
+.specs-con .section-s2 .desc .black {
+  width: 300px;
+}
+.specs-con .section-s2 .desc .gray {
+  flex-grow: 1;
+  margin-left: 10px;
+}
+.specs-con .section-s3,
+.specs-con .section-s4,
+.specs-con .section-s5 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 76px 0 66px;
+}
+.specs-con .section-s3 .title,
+.specs-con .section-s4 .title,
+.specs-con .section-s5 .title {
+  line-height: 1.3;
+  width: 226px;
+}
+.specs-con .section-s3 .text-container,
+.specs-con .section-s4 .text-container,
+.specs-con .section-s5 .text-container {
+  box-sizing: border-box;
+  padding-top: 2px;
+  width: 916px;
+}
+.specs-con .section-s3 .desc,
+.specs-con .section-s4 .desc,
+.specs-con .section-s5 .desc {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.specs-con .section-s3 .desc:nth-child(2),
+.specs-con .section-s4 .desc:nth-child(2),
+.specs-con .section-s5 .desc:nth-child(2) {
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.specs-con .section-s3 .desc:nth-child(2) .item,
+.specs-con .section-s4 .desc:nth-child(2) .item,
+.specs-con .section-s5 .desc:nth-child(2) .item {
+  margin-top: 0 !important;
+  width: auto;
+}
+.specs-con .section-s3 .desc:nth-child(n + 2),
+.specs-con .section-s4 .desc:nth-child(n + 2),
+.specs-con .section-s5 .desc:nth-child(n + 2) {
+  margin-top: 20px;
+}
+.specs-con .section-s3 .desc .item,
+.specs-con .section-s4 .desc .item,
+.specs-con .section-s5 .desc .item {
+  display: block;
+  width: 100%;
+}
+.specs-con .section-s3 .desc .item:nth-child(n + 2),
+.specs-con .section-s4 .desc .item:nth-child(n + 2),
+.specs-con .section-s5 .desc .item:nth-child(n + 2) {
+  margin-top: 20px;
+}
+.specs-con .section-s6 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 76px 0 66px;
+}
+.specs-con .section-s6 .title {
+  line-height: 1.3;
+  width: 226px;
+}
+.specs-con .section-s6 .text-container {
+  box-sizing: border-box;
+  padding-top: 2px;
+  width: 916px;
+}
+.specs-con .section-s6 .desc {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.specs-con .section-s6 .desc:nth-child(2) {
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.specs-con .section-s6 .desc:nth-child(2) .item {
+  margin-top: 0 !important;
+  width: auto;
+}
+.specs-con .section-s6 .desc:nth-child(n + 2) {
+  margin-top: 20px;
+}
+.specs-con .section-s6 .desc .item {
+  display: block;
+  width: 100%;
+}
+.specs-con .section-s6 .desc .item:nth-child(n + 2) {
+  margin-top: 20px;
+}
+.specs-con .section-s6 .icon {
+  height: 18px;
+  margin: 0 6px;
+  width: 78px;
+}
+.redmi-smart-band-pro-in.specs-con {
+  background-color: #fff;
+  box-sizing: border-box;
+  padding-bottom: 200px;
+}
+.redmi-smart-band-pro-in.specs-con .f12 {
+  font-size: 12px;
+}
+.redmi-smart-band-pro-in.specs-con .f14 {
+  font-size: 14px;
+}
+.redmi-smart-band-pro-in.specs-con .f16 {
+  font-size: 16px;
+}
+.redmi-smart-band-pro-in.specs-con .f18 {
+  font-size: 18px;
+}
+.redmi-smart-band-pro-in.specs-con .f20 {
+  font-size: 20px;
+}
+.redmi-smart-band-pro-in.specs-con .f22 {
+  font-size: 22px;
+}
+.redmi-smart-band-pro-in.specs-con .f24 {
+  font-size: 24px;
+}
+.redmi-smart-band-pro-in.specs-con .f28 {
+  font-size: 28px;
+}
+.redmi-smart-band-pro-in.specs-con .f30 {
+  font-size: 30px;
+}
+.redmi-smart-band-pro-in.specs-con .f32 {
+  font-size: 32px;
+}
+.redmi-smart-band-pro-in.specs-con .f36 {
+  font-size: 36px;
+}
+.redmi-smart-band-pro-in.specs-con .f38 {
+  font-size: 38px;
+}
+.redmi-smart-band-pro-in.specs-con .f40 {
+  font-size: 40px;
+}
+.redmi-smart-band-pro-in.specs-con .f46 {
+  font-size: 46px;
+}
+.redmi-smart-band-pro-in.specs-con .f48 {
+  font-size: 48px;
+}
+.redmi-smart-band-pro-in.specs-con .f50 {
+  font-size: 50px;
+}
+.redmi-smart-band-pro-in.specs-con .f56 {
+  font-size: 56px;
+}
+.redmi-smart-band-pro-in.specs-con .f60 {
+  font-size: 60px;
+}
+.redmi-smart-band-pro-in.specs-con .f64 {
+  font-size: 64px;
+}
+.redmi-smart-band-pro-in.specs-con .f70 {
+  font-size: 70px;
+}
+.redmi-smart-band-pro-in.specs-con .f72 {
+  font-size: 72px;
+}
+.redmi-smart-band-pro-in.specs-con .f74 {
+  font-size: 74px;
+}
+.redmi-smart-band-pro-in.specs-con .f76 {
+  font-size: 76px;
+}
+.redmi-smart-band-pro-in.specs-con .f80 {
+  font-size: 80px;
+}
+.redmi-smart-band-pro-in.specs-con .f90 {
+  font-size: 90px;
+}
+.redmi-smart-band-pro-in.specs-con .f100 {
+  font-size: 100px;
+}
+.redmi-smart-band-pro-in.specs-con .f110 {
+  font-size: 110px;
+}
+.redmi-smart-band-pro-in.specs-con .f120 {
+  font-size: 120px;
+}
+.redmi-smart-band-pro-in.specs-con .f130 {
+  font-size: 130px;
+}
+.redmi-smart-band-pro-in.specs-con .f140 {
+  font-size: 140px;
+}
+.redmi-smart-band-pro-in.specs-con .f148 {
+  font-size: 148px;
+}
+.redmi-smart-band-pro-in.specs-con .f150 {
+  font-size: 150px;
+}
+.redmi-smart-band-pro-in.specs-con .section {
+  border: none;
+  width: 1226px;
+}
+.redmi-smart-band-pro-in.specs-con .section_01 {
+  box-sizing: border-box;
+  color: #010101;
+  display: flex;
+  flex-direction: column;
+  padding-top: 153px;
+}
+.redmi-smart-band-pro-in.specs-con .section_01 .image {
+  height: 534px;
+  margin-left: 299px;
+  margin-top: 99px;
+  width: 487px;
+}
+.redmi-smart-band-pro-in.specs-con .section_02,
+.redmi-smart-band-pro-in.specs-con .section_03 {
+  box-sizing: border-box;
+}
+.redmi-smart-band-pro-in.specs-con .section_02 .text-container,
+.redmi-smart-band-pro-in.specs-con .section_03 .text-container {
+  display: flex;
+  margin-top: 95px;
+}
+.redmi-smart-band-pro-in.specs-con .section_02 .text-container .f-bold,
+.redmi-smart-band-pro-in.specs-con .section_03 .text-container .f-bold {
+  width: 400px;
+}
+.redmi-smart-band-pro-in.specs-con .section_02 .text-container .f-regular,
+.redmi-smart-band-pro-in.specs-con .section_03 .text-container .f-regular {
+  width: 500px;
+}
+.redmi-smart-band-pro-in.specs-con .section_02 .f28,
+.redmi-smart-band-pro-in.specs-con .section_02 .f48,
+.redmi-smart-band-pro-in.specs-con .section_03 .f28,
+.redmi-smart-band-pro-in.specs-con .section_03 .f48 {
+  color: #181818;
+}
+.redmi-smart-band-pro-in.specs-con .section_02 .desc,
+.redmi-smart-band-pro-in.specs-con .section_03 .desc {
+  display: block;
+  margin-left: 400px;
+}
+.redmi-smart-band-pro-in.specs-con .section_03 {
+  border-top: 1px solid #000;
+  margin-top: 129px;
+}
+.faq-con {
+  background-color: #f5f5f5;
+  width: 100%;
+}
+.faq-con .section {
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  color: #000;
+  font-weight: 400;
+  line-height: 1.3;
+  margin-bottom: -1px;
+  min-width: 4.789063rem;
+  overflow: hidden;
+  position: relative;
+}
+.hairlines .faq-con .section {
+  margin-bottom: -0.5px;
+}
+.faq-con .section .xm-text {
+  display: block;
+}
+.faq-con .section-banner,
+.faq-con .section .flex-list {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.faq-con .section-banner {
+  height: 180px;
+  position: relative;
+  width: 100%;
+}
+.faq-con .section-banner .banner-text {
+  color: #fefefe;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+}
+.faq-con .section-faq {
+  margin-top: 20px;
+  min-height: 800px;
+  padding: 0 0 14px;
+}
+.faq-con .section-faq .faq-content {
+  background-color: #fff;
+  margin: 0 auto;
+  padding-top: 50px;
+  width: 1226px;
+}
+.faq-con .section-faq .faq-list {
+  padding: 0 0 50px;
+}
+.faq-con .section-faq .J_faqLi {
+  font-size: 22px;
+  margin: 0 auto 10px;
+  width: 1100px;
+}
+.faq-con .section-faq .J_faqLi.opened .list-content {
+  max-height: 2000px;
+  transition: max-height 0.3s ease-in;
+}
+.faq-con .section-faq .J_faqLi.opened .icon {
+  transform: rotate(-135deg);
+}
+.faq-con .section-faq .module-title {
+  margin: 50px 0 10px 40px;
+}
+.faq-con .section-faq .list-header {
+  color: #424242;
+  cursor: pointer;
+  font-weight: 400;
+  margin: 10px 0 0 30px;
+  position: relative;
+}
+.faq-con .section-faq .sub-title {
+  display: inline-block;
+  width: 900px;
+}
+.faq-con .section-faq .list-content {
+  max-height: 0;
+  overflow: hidden;
+  padding: 0;
+  transition: max-height 0.5s cubic-bezier(0, 1.05, 0, 1);
+}
+.faq-con .section-faq .list-content-inner {
+  color: #757575;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 5px;
+  padding: 0 50px;
+}
+.faq-con .section-faq .icon {
+  border-left: 0.019531rem solid #424242;
+  border-top: 0.019531rem solid #424242;
+  bottom: 10px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0;
+  transform: rotate(45deg);
+  width: 10px;
+}
+.mi-modal.mi-modal--desktop .mi-modal__content.notify-pc-modal {
+  min-width: 560px;
+  width: 850px;
+}
+.notify-m-modal__title,
+.notify-pc-modal__title {
+  border-bottom: 1px solid var(--border-light-variant);
+  color: var(--title-base);
+  font-size: 28px;
+  font-weight: 400;
+  height: 80px;
+  line-height: 80px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.notify-m-modal__content,
+.notify-pc-modal__content {
+  box-sizing: border-box;
+  padding: 30px 0;
+}
+.notify-m-modal__content .notify-modal__icon,
+.notify-pc-modal__content .notify-modal__icon {
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.notify-m-modal__content .notify-modal__icon .xiaomi,
+.notify-pc-modal__content .notify-modal__icon .xiaomi {
+  color: #83c44e;
+  font-size: 85px;
+  line-height: 1;
+}
+.notify-m-modal__content .notify-modal__subtitle,
+.notify-pc-modal__content .notify-modal__subtitle {
+  font-size: 24px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.notify-m-modal__content .notify-modal__detail,
+.notify-pc-modal__content .notify-modal__detail {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 475px;
+}
+.notify-m-modal__content .notify-modal__detail a,
+.notify-pc-modal__content .notify-modal__detail a {
+  color: #ff6700;
+  text-decoration: underline;
+}
+.notify-m-modal__actions,
+.notify-pc-modal__actions {
+  align-items: center;
+  border-top: 1px solid var(--border-light-variant);
+  display: flex;
+  height: 80px;
+  justify-content: center;
+}
+.notify-m-modal__actions .notify-modal__button,
+.notify-pc-modal__actions .notify-modal__button {
+  align-items: center;
+  background-color: var(--background-primary);
+  border: 0;
+  box-sizing: border-box;
+  color: var(--link-light-variant);
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  height: 40px;
+  justify-content: center;
+  line-height: 40px;
+  padding: 0 40px;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal .mi-modal__title--center {
+  font-size: 18px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: left;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal .mi-modal__title-wrap {
+  height: auto;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal__content {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal__content .notify-modal__icon {
+  display: none;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal__content .notify-modal__subtitle {
+  font-size: 16px;
+  text-align: left;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal__content .notify-modal__detail {
+  text-align: left;
+  width: 100%;
+}
+.mi-modal.mi-modal--mobile .notify-m-modal__actions {
+  display: none;
+}
+.buy-container {
+  background-color: #fafafa;
+  transition: height 0.5s ease;
+  width: 100%;
+}
+.buy-container::-webkit-scrollbar {
+  display: none;
+}
+.buy-container .product__main {
+  border-top: none !important;
+}
+html {
+  margin: 0 auto;
+}
+body,
+html {
+  height: 100%;
+}
+body,
+html,
+li,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+:root {
+  --skeleton-color: #eee;
+}
+body > img,
+head > img,
+html > img {
+  display: none;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  z-index: -10;
+}
+.xm-link {
+  display: inline-block;
+  text-decoration: none;
+}
+.xm-link.xm-button {
+  background-color: initial;
+}
+.xm-button {
+  background-color: #ff6700;
+  color: #fff;
+  padding: 0.046875rem;
+}
+.xm-text {
+  display: inline-block;
+}
+.xm-blur {
+  opacity: 0.3 !important;
+}
+.hide {
+  display: none !important;
+}
+.xm-page-hide {
+  height: 0;
+  position: absolute;
+}
+.xm-update {
+  position: relative;
+}
+.xm-update:after {
+  border: 0.007813rem solid #ff0;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.xm-picture .xm-img {
+  width: 100%;
+}
+.xm-img {
+  color: #0000;
+}
+.xm-img:not([src]),
+.xm-img[src=""] {
+  visibility: hidden;
+}
+.xm-picture {
+  display: inline-flex;
+}
+.eg .xm-text,
+.gcc .xm-text,
+.sa .xm-text {
+  display: block;
+}
+.eg .footer.footer--desktop,
+.eg .header.header--desktop,
+.eg .xm-button,
+.eg .xm-navbar,
+.eg .xm-price,
+.eg .xm-text,
+.gcc .footer.footer--desktop,
+.gcc .header.header--desktop,
+.gcc .xm-button,
+.gcc .xm-navbar,
+.gcc .xm-price,
+.gcc .xm-text,
+.sa .footer.footer--desktop,
+.sa .header.header--desktop,
+.sa .xm-button,
+.sa .xm-navbar,
+.sa .xm-price,
+.sa .xm-text {
+  direction: rtl;
+}
+.eg .header.header--desktop .site-logo .site-logo__wrapper img,
+.gcc .header.header--desktop .site-logo .site-logo__wrapper img,
+.sa .header.header--desktop .site-logo .site-logo__wrapper img {
+  transform: none;
+}
+.eg .header.header--desktop .entry__item:before,
+.gcc .header.header--desktop .entry__item:before,
+.sa .header.header--desktop .entry__item:before {
+  right: 0;
+}
+.eg .header.header--desktop .entry__left .entry__item:first-child,
+.gcc .header.header--desktop .entry__left .entry__item:first-child,
+.sa .header.header--desktop .entry__left .entry__item:first-child {
+  padding-left: 20px;
+}
+.eg .footer.footer--desktop .footer-bottom .copyright,
+.gcc .footer.footer--desktop .footer-bottom .copyright,
+.sa .footer.footer--desktop .footer-bottom .copyright {
+  float: right;
+}
+.section {
+  background-repeat: no-repeat;
+  margin-bottom: -1px;
+}
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: initial;
+}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+[hidden],
+template {
+  display: none;
+}
+a {
+  background-color: initial;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+.hairlines abbr[title] {
+  border-bottom: 0.5px dotted;
+}
+b,
+strong {
+  font-weight: 700;
+}
+dfn {
+  font-style: italic;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+mark {
+  background: #ff0;
+  color: #000;
+}
+small {
+  font-size: 80%;
+}
+img {
+  border: 0;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+figure {
+  margin: 1em 0.15625rem;
+}
+hr {
+  box-sizing: initial;
+  height: 0;
+}
+pre {
+  overflow: auto;
+}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, sans-serif;
+  font-size: 1em;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+button {
+  overflow: visible;
+}
+button,
+select {
+  text-transform: none;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  appearance: button;
+  cursor: pointer;
+}
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+input {
+  line-height: normal;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  appearance: textfield;
+  box-sizing: initial;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
+fieldset {
+  border: 1px solid silver;
+  margin: 0 0.007813rem;
+  padding: 0.35em 0.625em 0.75em;
+}
+.hairlines fieldset {
+  border: 0.5px solid silver;
+}
+legend {
+  border: 0;
+  padding: 0;
+}
+textarea {
+  overflow: auto;
+}
+optgroup {
+  font-weight: 700;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td,
+th {
+  padding: 0;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+  font-size: 14px;
+  line-height: 1.5;
+}
+a,
+body {
+  color: #757575;
+}
+p > a {
+  color: #ff6700;
+}
+p > a:hover {
+  text-decoration: underline;
+}
+dd,
+dl,
+dt,
+li,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: initial;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+.eco_name-88 {
+  font-size: 0.34375rem;
+  line-height: 0.429688rem;
+}
+.eco_name-80 {
+  font-size: 0.3125rem;
+  line-height: 0.390625rem;
+}
+.eco_name-72 {
+  font-size: 0.34375rem;
+  line-height: 0.351563rem;
+}
+.eco_slogan {
+  font-size: 0.1875rem;
+  line-height: 0.234375rem;
+}
+.eco_ksp {
+  font-size: 0.117188rem;
+  line-height: 0.171875rem;
+}
+.eco_name-radius {
+  border-radius: 0.015625rem;
+  font-size: 0.15625rem;
+  line-height: 0.226563rem;
+}
+.eco_ksp-title {
+  font-size: 0.125rem;
+  line-height: 0.15625rem;
+}
+.eco_ksp-text {
+  font-size: 0.09375rem;
+  line-height: 0.125rem;
+}
+.eco_ksp-item {
+  padding: 0.117188rem 0.136719rem;
+}
+.eco_title {
+  font-size: 0.234375rem;
+  line-height: 0.28125rem;
+}
+.eco_text {
+  font-size: 0.117188rem;
+  line-height: 0.15625rem;
+}
+.eco_note {
+  font-size: 0.09375rem;
+  line-height: 0.109375rem;
+}
+.eco_number {
+  font-size: 0.429688rem;
+  line-height: 0.429688rem;
+}
+.eco_note-text {
+  font-size: 0.09375rem;
+  line-height: 0.125rem;
+}
+.price-common {
+  font-size: 0.257813rem;
+  font-weight: 300;
+}
+.price-common .xm-price__from {
+  font-size: 60%;
+  margin: 0 0.039063rem;
+}
+.price-common .xm-price__sNum {
+  font-weight: 700;
+  margin: 0;
+}
+.price-common .xm-price__label {
+  font-size: 60%;
+  margin: 0;
+}
+.price-common .xm-price--current .xm-price__label {
+  font-size: 100%;
+  font-weight: 700;
+}
+.price-common .xm-price--sale {
+  margin-right: 0.039063rem;
+}
+.price-common .xm-price--sale .xm-price__label,
+.price-common .xm-price--sale .xm-price__sNum {
+  margin: 0;
+}
+.price-common .xm-price--origin .xm-price__label {
+  font-size: 100%;
+}
+.price-common .xm-price--origin .xm-price__mNum {
+  margin: 0;
+}
+.scroll-common .slick-slider .slick-dots li > button {
+  background-color: initial;
+  border: 0.007813rem solid #fff;
+  border-radius: 50%;
+  height: 0.054688rem;
+  padding: 0;
+  text-indent: -39.058594rem;
+  width: 0.054688rem;
+}
+.scroll-common .slick-slider .slick-dots li.slick-active > button {
+  background-color: #fff;
+}
+.scroll-common .slick-slider .slick-arrow {
+  height: 0.195313rem;
+  width: 0.195313rem;
+}
+.scroll-common .slick-slider .slick-prev {
+  background: url(//i01.appmifile.com/webfile/globalimg/zh/2021/left.png)
+    no-repeat;
+  background-size: 100% 100%;
+}
+.scroll-common .slick-slider .slick-next {
+  background: url(//i01.appmifile.com/webfile/globalimg/zh/2021/right.png)
+    no-repeat;
+  background-size: 100% 100%;
+}
+.scroll-common-grey .slick-slider .slick-dots li > button {
+  background-color: initial;
+  border: 0.007813rem solid #fff;
+  border-radius: 50%;
+  height: 0.054688rem;
+  padding: 0;
+  text-indent: -39.058594rem;
+  width: 0.054688rem;
+}
+.scroll-common-grey .slick-slider .slick-dots li.slick-active > button {
+  background-color: #fff;
+}
+.scroll-common-grey .slick-slider .slick-arrow {
+  height: 0.195313rem;
+  width: 0.195313rem;
+}
+.scroll-common-grey .slick-slider .slick-prev {
+  background: url(//i01.appmifile.com/webfile/globalimg/zh/2021/left-grey.png)
+    no-repeat;
+  background-size: 100% 100%;
+}
+.scroll-common-grey .slick-slider .slick-next {
+  background: url(//i01.appmifile.com/webfile/globalimg/zh/2021/right-grey.png)
+    no-repeat;
+  background-size: 100% 100%;
+}
+.scroll-small li > button {
+  border-radius: 0;
+  height: 0.023438rem;
+  margin: 0 0.03125rem;
+  width: 0.195313rem;
+}
+.scroll-small .slick-slide div img {
+  border-radius: 0.195313rem;
+}
+.eco_specs-title {
+  font-size: 0.109375rem;
+  line-height: 0.140625rem;
+}
+.eco_specs-label,
+.eco_specs-value {
+  font-size: 0.070313rem;
+  line-height: 0.101563rem;
+}
+.f-thin {
+  font-weight: 100;
+}
+.f-extra {
+  font-weight: 200;
+}
+.f-light {
+  font-weight: 300;
+}
+.f-regular {
+  font-weight: 400;
+}
+.f-medium {
+  font-weight: 500;
+}
+.f-semi {
+  font-weight: 600;
+}
+.f-bold {
+  font-weight: 700;
+}
+.f-bolder {
+  font-weight: 800;
+}
+.f-heavy {
+  font-weight: 900;
+}
+.xm-button,
+.xm-navbar__nav-item,
+.xm-price {
+  font-weight: 400 !important;
+}
+.price-common {
+  font-weight: 300 !important;
+}
+.price-common .xm-price--current .xm-price__label,
+.price-common .xm-price__sNum {
+  font-weight: 700 !important;
+}
+@font-face {
+  font-family: CamphorPro-Light;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Light.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorPro-Regular;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Regular.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorPro-Bold;
+  font-weight: 700;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Bold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorPro-Thin;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Thin.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorPro-Heavy;
+  font-weight: 900;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Heavy.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorPro-Medium;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Medium.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Light;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Light.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Regular;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Regular.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Bold;
+  font-weight: 700;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Bold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Thin;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Thin.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Heavy;
+  font-weight: 900;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Heavy.woff)
+    format("woff");
+}
+@font-face {
+  font-family: CamphorProForXiaoMi-Medium;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Medium.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Light;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Light.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-ExtraLight;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-ExtraLight.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Regular;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Regular.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Bold;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Bold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Book;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Book.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-SemiBold;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-SemiBold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Hairline;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Hairline.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-Medium;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Medium.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Light;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Light.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-ExtraLight;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-ExtraLight.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Regular;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Regular.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Bold;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Bold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Book;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Book.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-SemiBold;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-SemiBold.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Hairline;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Hairline.woff)
+    format("woff");
+}
+@font-face {
+  font-family: POCOTech-cool-Medium;
+  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Medium.woff)
+    format("woff");
+}
+.poco .f-light {
+  font-family: POCOTech-Light, sans-serif;
+}
+.poco .f-extra {
+  font-family: POCOTech-ExtraLight, sans-serif;
+}
+.poco .f-regular {
+  font-family: POCOTech-Regular, sans-serif;
+}
+.poco .f-bold {
+  font-family: POCOTech-Bold, sans-serif;
+}
+.poco .f-book {
+  font-family: POCOTech-Book, sans-serif;
+}
+.poco .f-semi {
+  font-family: POCOTech-SemiBold, sans-serif;
+}
+.poco .f-hair {
+  font-family: POCOTech-Hairline, sans-serif;
+}
+.poco .f-medium {
+  font-family: POCOTech-Medium, sans-serif;
+}
+#root {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 100%;
+  min-width: 1226px;
+}
+#review-root {
+  min-height: 100vh;
+}
+a {
+  color: inherit;
+  font-size: 14px;
+  text-decoration: none;
+}
+.container {
+  margin: 0 auto;
+  width: 1226px;
+}
+main {
+  display: inline-block;
+  font-size: 16px;
+}
+body {
+  background-color: var(--background-base);
+  color: var(--title-dark);
+}
+input,
+select,
+textarea {
+  background-color: var(--background-card-bg);
+  border-color: var(--title-dark);
+}
+@font-face {
+  font-family: xiaomi;
+  src: url(//cnbj1.fds.api.xiaomi.com/mi-com-product/fonts/iconfont.eot?t=1613640372752);
+  src: url(//cnbj1.fds.api.xiaomi.com/mi-com-product/fonts/iconfont.eot?t=1613640372752#iefix)
+      format("embedded-opentype"),
+    url("data:application/x-font-woff2;charset=utf-8;base64,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")
+      format("woff2"),
+    url(${obj.resourceJsUrl}/assets/iconfont.d8059f99.woff) format("woff"),
+    url(${obj.resourceJsUrl}/assets/iconfont.bad6e895.ttf) format("truetype"),
+    url(${obj.resourceJsUrl}/assets/iconfont.03a33765.svg) format("svg");
+}
+.xiaomi {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: xiaomi !important;
+  font-size: 16px;
+  font-style: normal;
+}
+.icon-custom-service:before {
+  content: "\e698";
+}
+.icon-poco-live-quiz:before {
+  content: "\e697";
+}
+.icon-poco-custom-service:before {
+  content: "\e696";
+}
+.icon-poco-live-poll:before {
+  content: "\e68e";
+}
+.icon-poco-live-send:before {
+  content: "\e691";
+}
+.icon-poco-live-shopping-bag:before {
+  content: "\e692";
+}
+.icon-poco-live-coupon:before {
+  content: "\e693";
+}
+.icon-share-fill:before {
+  content: "\e694";
+}
+.icon-thumb-up:before {
+  content: "\e695";
+}
+.icon-poco-circle-on:before {
+  content: "\e688";
+}
+.icon-poco-circle:before {
+  content: "\e689";
+}
+.icon-poco-home:before {
+  content: "\e68a";
+}
+.icon-poco-me-on:before {
+  content: "\e68b";
+}
+.icon-poco-service:before {
+  content: "\e68c";
+}
+.icon-poco-me:before {
+  content: "\e68d";
+}
+.icon-poco-service-on:before {
+  content: "\e68f";
+}
+.icon-poco-home-on:before {
+  content: "\e690";
+}
+.icon-poco:before {
+  content: "\e687";
+}
+.icon-xiangyouxuanzhuan:before {
+  content: "\e683";
+}
+.icon-xiangzuoxuanzhuan:before {
+  content: "\e684";
+}
+.icon-quanping:before {
+  content: "\e685";
+}
+.icon-tuichuquanping:before {
+  content: "\e686";
+}
+.icon-top:before {
+  content: "\e682";
+}
+.icon-share-review:before {
+  content: "\e681";
+}
+.icon-reply:before {
+  content: "\e680";
+}
+.icon-eyes:before {
+  content: "\e67f";
+}
+.icon-gengduo1:before {
+  content: "\e67e";
+}
+.icon-arrow-up:before {
+  content: "\e7be";
+}
+.icon-dianzan:before {
+  content: "\e67c";
+}
+.icon-help-unsolve:before {
+  content: "\e67b";
+}
+.icon-help-solve:before {
+  content: "\e67d";
+}
+.icon-help-phone:before {
+  content: "\e67a";
+}
+.icon-help-letters:before {
+  content: "\e668";
+}
+.icon-radio-checked:before {
+  content: "\e666";
+}
+.icon-radio-unchecked:before {
+  content: "\e667";
+}
+.icon-live-shopping-bag:before {
+  content: "\e669";
+}
+.icon-more:before {
+  content: "\e66a";
+}
+.icon-live-send:before {
+  content: "\e66b";
+}
+.icon-live-poll:before {
+  content: "\e66c";
+}
+.icon-live-coupon:before {
+  content: "\e66d";
+}
+.icon-live-quiz:before {
+  content: "\e66e";
+}
+.icon-favorite:before {
+  content: "\e66f";
+}
+.icon-smile:before {
+  content: "\e670";
+}
+.icon-lamp-bulb:before {
+  content: "\e671";
+}
+.icon-earphone:before {
+  content: "\e672";
+}
+.icon-love:before {
+  content: "\e673";
+}
+.icon-cellphone:before {
+  content: "\e674";
+}
+.icon-mouse:before {
+  content: "\e675";
+}
+.icon-power-bank:before {
+  content: "\e676";
+}
+.icon-loudspeaker:before {
+  content: "\e677";
+}
+.icon-band:before {
+  content: "\e678";
+}
+.icon-luggage:before {
+  content: "\e679";
+}
+.icon-help-message:before {
+  content: "\e665";
+}
+.icon-telephone-service:before {
+  content: "\e663";
+}
+.icon-manual-service:before {
+  content: "\e664";
+}
+.icon-vk:before {
+  content: "\e662";
+}
+.icon-line:before {
+  content: "\e62f";
+}
+.icon-whatsapp:before {
+  content: "\e661";
+}
+.icon-Arrow:before {
+  content: "\e65f";
+}
+.icon-mi-logo:before {
+  content: "\e660";
+}
+.icon-copy:before {
+  content: "\e65e";
+}
+.icon-pc:before {
+  content: "\e65d";
+}
+.icon-bell:before {
+  content: "\e65c";
+}
+.icon-miui:before {
+  content: "\e65b";
+}
+.icon-free:before {
+  content: "\e65a";
+}
+.icon-car:before {
+  content: "\e659";
+}
+.icon-cart-add:before {
+  content: "\e657";
+}
+.icon-cart-checked:before {
+  content: "\e658";
+}
+.icon-cart-del:before {
+  content: "\e656";
+}
+.icon-arrow-down-tri:before {
+  content: "\e655";
+}
+.icon-arrow-left-s:before {
+  content: "\e653";
+}
+.icon-arrow-right-s:before {
+  content: "\e654";
+}
+.icon-arrow-up-l:before {
+  content: "\e651";
+}
+.icon-arrow-down-l:before {
+  content: "\e652";
+}
+.icon-facebook:before {
+  content: "\e649";
+}
+.icon-youtube:before {
+  content: "\e64a";
+}
+.icon-twitter:before {
+  content: "\e64b";
+}
+.icon-ins:before {
+  content: "\e64c";
+}
+.icon-secure-payment:before {
+  content: "\e64d";
+}
+.icon-service-network:before {
+  content: "\e64e";
+}
+.icon-replacement:before {
+  content: "\e64f";
+}
+.icon-google:before {
+  content: "\e650";
+}
+.icon-cart-add-24:before {
+  content: "\e648";
+}
+.icon-arrow-right-l:before {
+  content: "\e646";
+}
+.icon-arrow-left-l:before {
+  content: "\e647";
+}
+.icon-arrow-down-s:before {
+  content: "\e63e";
+}
+.icon-arrow-up-s:before {
+  content: "\e63f";
+}
+.icon-cart-empty-24:before {
+  content: "\e640";
+}
+.icon-price-down:before {
+  content: "\e641";
+}
+.icon-price-up:before {
+  content: "\e642";
+}
+.icon-checked:before {
+  content: "\e643";
+}
+.icon-cart-full-24:before {
+  content: "\e644";
+}
+.icon-search-24:before {
+  content: "\e645";
+}
+.icon-minus:before {
+  content: "\e63d";
+}
+.icon-plus:before {
+  content: "\e63c";
+}
+.icon-f:before {
+  content: "\e603";
+}
+.icon-arrow-right:before {
+  content: "\e600";
+}
+.icon-down:before {
+  content: "\e63b";
+}
+.icon-jiantou:before {
+  content: "\e604";
+}
+.icon-select-arrow:before {
+  content: "\e63a";
+}
+.icon-milogo:before {
+  content: "\e602";
+}
+.icon-remind:before {
+  content: "\e601";
+}
+.icon-copylink:before {
+  content: "\e639";
+}
+.icon-location:before {
+  content: "\e637";
+}
+.icon-track:before {
+  content: "\e638";
+}
+.icon-arrowlittle:before {
+  content: "\e62d";
+}
+.icon-check:before {
+  content: "\e62e";
+}
+.icon-back:before {
+  content: "\e630";
+}
+.icon-info:before {
+  content: "\e631";
+}
+.icon-edit:before {
+  content: "\e632";
+}
+.icon-share:before {
+  content: "\e633";
+}
+.icon-delete:before {
+  content: "\e634";
+}
+.icon-question:before {
+  content: "\e635";
+}
+.icon-m-home:before {
+  content: "\e636";
+}
+.icon-star-orange:before {
+  content: "\e62c";
+}
+.icon-s-time:before {
+  content: "\e628";
+}
+.icon-s-locate:before {
+  content: "\e629";
+}
+.icon-s-phone:before {
+  content: "\e62a";
+}
+.icon-s-warranty:before {
+  content: "\e62b";
+}
+.icon-cleartext:before {
+  content: "\e61b";
+}
+.icon-close:before {
+  content: "\e627";
+}
+.icon-star1:before {
+  content: "\e622";
+}
+.icon-delivery:before {
+  content: "\e61a";
+}
+.icon-tag:before {
+  content: "\e61c";
+}
+.icon-delivery1:before {
+  content: "\e61d";
+}
+.icon-pullup:before {
+  content: "\e61e";
+}
+.icon-pulldown:before {
+  content: "\e61f";
+}
+.icon-volume:before {
+  content: "\e620";
+}
+.icon-star:before {
+  content: "\e621";
+}
+.icon-miextendedwarranty:before {
+  content: "\e623";
+}
+.icon-mute:before {
+  content: "\e624";
+}
+.icon-miprotect:before {
+  content: "\e625";
+}
+.icon-like:before {
+  content: "\e626";
+}
+.icon-chat:before {
+  content: "\e60f";
+}
+.icon-google_x:before {
+  content: "\e610";
+}
+.icon-facebook_x:before {
+  content: "\e611";
+}
+.icon-email:before {
+  content: "\e612";
+}
+.icon-twitter_x:before {
+  content: "\e613";
+}
+.icon-hotline:before {
+  content: "\e614";
+}
+.icon-youtube_x:before {
+  content: "\e615";
+}
+.icon-vk_x:before {
+  content: "\e616";
+}
+.icon-line_x:before {
+  content: "\e617";
+}
+.icon-instagram_x:before {
+  content: "\e618";
+}
+.icon-nation:before {
+  content: "\e619";
+}
+.icon-account:before {
+  content: "\e605";
+}
+.icon-cart:before {
+  content: "\e606";
+}
+.icon-category:before {
+  content: "\e607";
+}
+.icon-home:before {
+  content: "\e608";
+}
+.icon-message:before {
+  content: "\e609";
+}
+.icon-discovery:before {
+  content: "\e60a";
+}
+.icon-search:before {
+  content: "\e60b";
+}
+.icon-search_bar:before {
+  content: "\e60c";
+}
+.icon-service:before {
+  content: "\e60d";
+}
+.icon-setting:before {
+  content: "\e60e";
+}
+/* .xm-scroll .slick-slider .slick-list,
+.xm-scroll .slick-slider .slick-slider,
+.xm-scroll .slick-slider .slick-track {
+display: block;
+}
+.xm-scroll .slick-slider .slick-slider {
+position: relative;
+}
+.xm-scroll .slick-slider .slick-list {
+overflow: hidden;
+}
+.xm-scroll .slick-slider .slick-slide {
+display: block;
+float: left;
+height: 100%;
+touch-action: pan-y;
+}
+.xm-scroll .slick-slider .slick-dots {
+bottom: 16px;
+display: flex !important;
+flex-basis: auto;
+left: 50%;
+position: absolute;
+transform: translateX(-50%);
+}
+.xm-scroll .slick-slider .slick-dots li {
+margin: 0 5px;
+overflow: hidden;
+}
+.xm-scroll .slick-slider .slick-dots li > button {
+border: 0;
+display: block;
+height: 100%;
+width: 100%;
+}
+.xm-scroll .slick-slider .slick-dots li.slick-active > button {
+background-color: #b0b0b0;
+}
+.xm-scroll .slick-slider,
+.xm-scroll .slick-slider .slick-list,
+.xm-scroll .slick-slider .slick-slide div,
+.xm-scroll .slick-slider .slick-slide div img {
+height: 100%;
+}
+.xm-scroll .slick-slider .slick-dots li > button {
+border-radius: 50%;
+height: 10px;
+padding: 0;
+text-indent: -9999px;
+width: 10px;
+}
+.xm-scroll .slick-slider .slick-arrow {
+border: 0;
+height: 69px;
+position: absolute;
+text-indent: -9999px;
+width: 41px;
+z-index: 10;
+display: none !important;
+}
+.xm-scroll .slick-slider .slick-prev {
+background: url(//i01.appmifile.com/webfile/globalimg/zh/2014/icon/icon-slides.png)
+  no-repeat;
+background-position: 0;
+cursor: pointer;
+left: 5%;
+margin-top: -35px;
+top: 50%;
+display: none !important;
+
+}
+.xm-scroll .slick-slider .slick-next {
+background: url(//i01.appmifile.com/webfile/globalimg/zh/2014/icon/icon-slides.png)
+  no-repeat;
+background-position: -42px;
+cursor: pointer;
+margin-top: -35px;
+right: 5%;
+top: 50%;
+display: none !important;
+}
+.xm-scroll .slick-slider .slick-slide > div img {
+vertical-align: top;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider {
+height: 3.085938rem;
+margin-bottom: 0.390625rem;
+width: 5.625rem;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .slick-dots {
+bottom: -0.410156rem;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .slick-dots li > button {
+background-color: #cdcdcd;
+border-radius: 0;
+height: 0.023438rem;
+width: 0.195313rem;
+}
+.div1.fly-birds-page_b334d4854c
+.div88
+.scroll-slider
+.slick-dots
+.slick-active
+> button {
+background-color: #323232;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .flex-item {
+background-size: cover;
+height: 3.085938rem;
+width: 5.625rem;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .text-box {
+box-sizing: border-box;
+display: flex;
+flex-direction: column;
+padding: 2.148438rem 0.078125rem 0;
+width: 2.03125rem;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .title {
+color: #fff;
+font-family: CamphorProForXiaoMi-Bold, sans-serif;
+font-size: 0.125rem;
+line-height: 0.179688rem;
+text-align: center;
+}
+.div1.fly-birds-page_b334d4854c .div88 .scroll-slider .info {
+color: #fff;
+font-family: CamphorProForXiaoMi-Regular, sans-serif;
+font-size: 0.101563rem;
+line-height: 0.117188rem;
+text-align: center;
+} */
+ul.slides {
+display: block;
+position: relative;
+width: 100%;
+height: 5.48rem;
+margin: 0;
+padding: 0;
+overflow: hidden;
+list-style: none;
+}
+
+.slides * {
+user-select: none;
+-ms-user-select: none;
+-moz-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+-webkit-touch-callout: none;
+}
+
+ul.slides input {
+display: none; 
+}
+
+
+.slide-container { 
+display: block; 
+}
+
+.slide-image {
+display: block;
+position: absolute;
+width: 100%;
+height: 100%;
+top: 0;
+opacity: 0;
+transition: all .7s ease-in-out;
+}   
+
+.slide-image img {
+width: auto;
+min-width: 100%;
+height: 100%;
+}
+
+.carousel-controls {
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+z-index: 999;
+font-size: 100px;
+line-height: 600px;
+color: #fff;
+}
+
+.carousel-controls label {
+display: none;
+position: absolute;
+padding: 0 20px;
+opacity: 0;
+transition: opacity .2s;
+cursor: pointer;
+}
+
+.slide-image:hover + .carousel-controls label{
+opacity: 0.5;
+}
+
+.carousel-controls label:hover {
+opacity: 1;
+}
+
+.carousel-controls .prev-slide {
+width: 49%;
+text-align: left;
+left: 0;
+}
+
+.carousel-controls .next-slide {
+width: 49%;
+text-align: right;
+right: 0;
+}
+
+.carousel-dots {
+position: absolute;
+left: 0;
+right: 0;
+bottom: 20px;
+z-index: 999;
+text-align: center;
+}
+
+.carousel-dots .carousel-dot {
+display: inline-block;
+width: 0.1rem;
+height: 0.1rem;
+border-radius: 50%;
+background-color: #fff;
+opacity: 0.5;
+margin: 10px;
+border: 1px solid black;
+}
+
+input:checked + .slide-container .slide-image {
+opacity: 1;
+transform: scale(1);
+transition: opacity 0.3s ease-in-out;
+}
+
+input:checked + .slide-container .carousel-controls label {
+ display: block; 
+}
+
+input#img-1:checked ~ .carousel-dots label#img-dot-1,
+input#img-2:checked ~ .carousel-dots label#img-dot-2,
+input#img-3:checked ~ .carousel-dots label#img-dot-3,
+input#img-4:checked ~ .carousel-dots label#img-dot-4,
+input#img-5:checked ~ .carousel-dots label#img-dot-5,
+input#img-6:checked ~ .carousel-dots label#img-dot-6 {
+opacity: 1;
+}
+
+
+input:checked + .slide-container .nav label { display: block; }
